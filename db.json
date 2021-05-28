@@ -2192,5 +2192,19 @@
         },
         "source": "Rhythm Game",
         "title": "Lively Up Yourself"
+    },
+    {
+        "artist": "Bob Marley and the Wailers",
+        "bpm": 143.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "No More Trouble"
     }
 ]
