@@ -5044,5 +5044,18 @@
         },
         "source": "Unknown",
         "title": "Nuthin' But A G Thang"
+    },
+    {
+        "artist": "DragonForce",
+        "bpm": 100.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Fury of the Storm"
     }
 ]
