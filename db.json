@@ -4841,5 +4841,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Vengeful One"
+    },
+    {
+        "artist": "Disturbed",
+        "bpm": 110.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "3A"
+        },
+        "source": "Rhythm Game",
+        "title": "Voices"
     }
 ]
