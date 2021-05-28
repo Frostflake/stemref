@@ -2911,5 +2911,19 @@
         },
         "source": "Direct From Artist",
         "title": "Lose It All"
+    },
+    {
+        "artist": "Bush",
+        "bpm": 139.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Comedown"
     }
 ]
