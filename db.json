@@ -637,5 +637,19 @@
         },
         "source": "Unknown",
         "title": "The Sign"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 124.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Moneytalks (live)"
     }
 ]
