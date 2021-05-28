@@ -3487,5 +3487,18 @@
         },
         "source": "Download",
         "title": "Into the Fire (feat. Mikky Ekko)"
+    },
+    {
+        "artist": "Clams Casino",
+        "bpm": 96.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "Download",
+        "title": "Level 1"
     }
 ]
