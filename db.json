@@ -2686,5 +2686,19 @@
         },
         "source": "Rhythm Game",
         "title": "Thunder"
+    },
+    {
+        "artist": "Breaking Wheel",
+        "bpm": 124.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Shoulder to the Plow"
     }
 ]
