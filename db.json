@@ -4491,5 +4491,19 @@
         },
         "source": "Remix Contest",
         "title": "Electro, Party And Rock'N Roll"
+    },
+    {
+        "artist": "Def Leppard",
+        "bpm": 152.29,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Bringin' On A Heartbreak"
     }
 ]
