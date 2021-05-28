@@ -1216,5 +1216,19 @@
         },
         "source": "Rhythm Game",
         "title": "Mony Mony"
+    },
+    {
+        "artist": "Billy Idol",
+        "bpm": 147.58,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "White Wedding (Part 1)"
     }
 ]
