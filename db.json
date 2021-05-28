@@ -3526,5 +3526,18 @@
         },
         "source": "Download",
         "title": "Thanks to You (feat. Sam Dew)"
+    },
+    {
+        "artist": "Clams Casino",
+        "bpm": 152.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Download",
+        "title": "Witness (feat. Lil B)"
     }
 ]
