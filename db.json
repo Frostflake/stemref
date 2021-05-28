@@ -1300,5 +1300,19 @@
         },
         "source": "Unknown",
         "title": "Scenes from an Italian Restaurant"
+    },
+    {
+        "artist": "Billy Joel",
+        "bpm": 126.64,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 3,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Unknown",
+        "title": "She's Always a Woman"
     }
 ]
