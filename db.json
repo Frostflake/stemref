@@ -4674,5 +4674,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hier Kommt Alex"
+    },
+    {
+        "artist": "Dinosaur Jr.",
+        "bpm": 131.17,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "Feel the Pain"
     }
 ]
