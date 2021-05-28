@@ -1971,5 +1971,19 @@
         },
         "source": "Download",
         "title": "The Fall"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 86.0,
+        "content": [
+            "inst",
+            "diy"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Download",
+        "title": "Throw Away"
     }
 ]
