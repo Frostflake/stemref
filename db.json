@@ -942,5 +942,19 @@
         },
         "source": "Rhythm Game",
         "title": "One Week"
+    },
+    {
+        "artist": "Barenaked Ladies",
+        "bpm": 132.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Hanukkah Blessings"
     }
 ]
