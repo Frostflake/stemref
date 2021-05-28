@@ -4314,5 +4314,19 @@
         },
         "source": "Rhythm Game",
         "title": "Young Americans"
+    },
+    {
+        "artist": "David Lynch",
+        "bpm": 136.29,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7B"
+        },
+        "source": "Unknown",
+        "title": "Good Day Today (Original Mix)"
     }
 ]
