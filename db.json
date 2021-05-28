@@ -399,5 +399,19 @@
         },
         "source": "Rhythm Game",
         "title": "I Ran (So Far Away)"
+    },
+    {
+        "artist": "3OH\u00a13",
+        "bpm": 86.0,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Remix Contest",
+        "title": "Mad At You"
     }
 ]
