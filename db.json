@@ -3474,5 +3474,18 @@
         },
         "source": "Download",
         "title": "Ghost in a Kiss (feat. Samuel T. Herring)"
+    },
+    {
+        "artist": "Clams Casino",
+        "bpm": 91.5,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Download",
+        "title": "Into the Fire (feat. Mikky Ekko)"
     }
 ]
