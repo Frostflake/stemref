@@ -2630,5 +2630,19 @@
         },
         "source": "Rhythm Game",
         "title": "Peace of Mind"
+    },
+    {
+        "artist": "Boston",
+        "bpm": 137.2,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Rock and Roll Band"
     }
 ]
