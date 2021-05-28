@@ -4533,5 +4533,19 @@
         },
         "source": "Rhythm Game",
         "title": "Photograph"
+    },
+    {
+        "artist": "Def Leppard",
+        "bpm": 107.11,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Unknown",
+        "title": "Rock of Ages"
     }
 ]
