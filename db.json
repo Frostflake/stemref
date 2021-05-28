@@ -1258,5 +1258,19 @@
         },
         "source": "Rhythm Game",
         "title": "Miami 2017"
+    },
+    {
+        "artist": "Billy Joel",
+        "bpm": 130.2,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Unknown",
+        "title": "My Life"
     }
 ]
