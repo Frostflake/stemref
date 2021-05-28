@@ -4245,5 +4245,18 @@
         },
         "source": "Rhythm Game",
         "title": "Let's Dance"
+    },
+    {
+        "artist": "David Bowie",
+        "bpm": 120.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "Modern Love"
     }
 ]
