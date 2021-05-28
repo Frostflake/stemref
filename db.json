@@ -234,5 +234,19 @@
         },
         "source": "Rhythm Game",
         "title": "Beautiful Disaster"
+    },
+    {
+        "artist": "30 Seconds to Mars",
+        "bpm": 87.5,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Rhythm Game",
+        "title": "Attack"
     }
 ]
