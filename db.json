@@ -3539,5 +3539,19 @@
         },
         "source": "Download",
         "title": "Witness (feat. Lil B)"
+    },
+    {
+        "artist": "Cocktail Slippers",
+        "bpm": 81.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Give It to Me"
     }
 ]
