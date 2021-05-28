@@ -983,5 +983,19 @@
         },
         "source": "Rhythm Game",
         "title": "Good Vibrations (live)"
+    },
+    {
+        "artist": "Beastie Boys",
+        "bpm": 96.82,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Rhythm Game",
+        "title": "No Sleep Till Brooklyn"
     }
 ]
