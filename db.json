@@ -2381,5 +2381,18 @@
         },
         "source": "Direct From Artist",
         "title": "Minnesota, WI"
+    },
+    {
+        "artist": "Bon Iver",
+        "bpm": 120.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Direct From Artist",
+        "title": "Perth"
     }
 ]
