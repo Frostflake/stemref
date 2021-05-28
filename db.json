@@ -1538,7 +1538,7 @@
         "title": "No Rain"
     },
     {
-        "artist": "Blink 182",
+        "artist": "Blink-182",
         "bpm": 96.5,
         "content": [
             "vox",
@@ -1550,5 +1550,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Rock Show"
+    },
+    {
+        "artist": "Blink-182",
+        "bpm": 106.5,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "Rhythm Game",
+        "title": "Aliens Exist"
     }
 ]
