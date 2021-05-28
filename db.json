@@ -2164,5 +2164,19 @@
         },
         "source": "Rhythm Game",
         "title": "Could You Be Loved"
+    },
+    {
+        "artist": "Bob Marley and the Wailers",
+        "bpm": 96.11,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "Rhythm Game",
+        "title": "Kaya"
     }
 ]
