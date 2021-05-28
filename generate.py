@@ -1,7 +1,11 @@
 import json
 
 with open("db.json") as db_json:
-	database = json.load(db_json)
+	database_raw = json.load(db_json)
+
+database = {}
+for song in database_raw:
+	database[song["artist"] + " - " + song["title"]] = song
 
 with open("index.html", "w") as file:
 	file.write('''<title>Song Stem DB</title>
@@ -69,42 +73,42 @@ background-color: #F1F1F1;
 	<td class="table_header" align="center">Source</td>
 	</tr>''')
 	index = 1
-	for song in database:
+	for song in sorted(database.keys()):
 		file.write('<tr><td align="center" width="30" class="td0" style="border-left-width: 1px;">' + str(index) + '</td>')
-		file.write('<td class="td0" align="center" width="90">' + song["title"] + '<br></td>')
-		file.write('<td class="td0" align="center" width="90">' + song["artist"] + '<br></td>')
-		file.write('<td class="td0" align="center" width="30">' + song["key"]["primary"] + '<br></td>')
-		file.write('<td class="td0" align="center" width="30">' + str(song["bpm"]) + '<br></td>')
-		file.write('<td class="td0" align="center" width="30">' + str(song["energy"]) + '<br></td>')
+		file.write('<td class="td0" align="center" width="90">' + database[song]["title"] + '<br></td>')
+		file.write('<td class="td0" align="center" width="90">' + database[song]["artist"] + '<br></td>')
+		file.write('<td class="td0" align="center" width="30">' + database[song]["key"]["primary"] + '<br></td>')
+		file.write('<td class="td0" align="center" width="30">' + str(database[song]["bpm"]) + '<br></td>')
+		file.write('<td class="td0" align="center" width="30">' + str(database[song]["energy"]) + '<br></td>')
 		file.write('<td class="td0" align="center" width="100">')
-		if 'inst' in song["content"]:
+		if 'inst' in database[song]["content"]:
 			file.write('<img src="img/instrumental.png" alt="Instrumental" title="The instrumental is archived!">')
 		else:
 			file.write('<img src="img/noinstrumental.png" alt="No Instrumental" title="The instrumental is not yet archived.">')
-		if 'vox' in song["content"]:
+		if 'vox' in database[song]["content"]:
 			file.write('<img src="img/vox.png" alt="Vox" title="The studio vocals are archived!">')
-		elif 'diy' in song["content"]:
+		elif 'diy' in database[song]["content"]:
 			file.write('<img src="img/diy.png" alt="DIY Vox" title="DIY vocals are archived!">')
 		else:
 			file.write('<img src="img/novox.png" alt="No Vox" title="The vocals are not yet archived.">')
-		if 'multis' in song["content"]:
+		if 'multis' in database[song]["content"]:
 			file.write('<img src="img/multis.png" alt="Multitracks" title="The multitracks are archived!">')
 		else:
 			file.write('<img src="img/nomultis.png" alt="No Multitracks" title="The multitracks are not yet archived.">')
-		if 'stems' in song["content"]:
+		if 'stems' in database[song]["content"]:
 			file.write('<img src="img/stems.png" alt="Stems" title="The stems are archived!">')
 		else:
 			file.write('<img src="img/nostems.png" alt="No Stems" title="The stems are not yet archived.">')
-		if 'project' in song["content"]:
+		if 'project' in database[song]["content"]:
 			file.write('<img src="img/project.png" alt="Project" title="The project is archived!">')
 		else:
 			file.write('<img src="img/noproject.png" alt="No Project" title="The project is not yet archived.">')
-		if 'other' in song["content"]:
+		if 'other' in database[song]["content"]:
 			file.write('<img src="img/other.png" alt="Other" title="Something else is archived!">')
 		else:
 			file.write('<img src="img/noother.png" alt="No Other" title="Nothing else is archived.">')
 		file.write('<br></td>')
-		file.write('<td class="td0" align="center" width="20">' + song["source"] + '<br></td></tr>')
+		file.write('<td class="td0" align="center" width="20">' + database[song]["source"] + '<br></td></tr>')
 		index += 1
 	file.write("</table>")
 		
