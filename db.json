@@ -2434,5 +2434,19 @@
         },
         "source": "Rhythm Game",
         "title": "Blaze of Glory"
+    },
+    {
+        "artist": "Bon Jovi",
+        "bpm": 130.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Have a Nice Day"
     }
 ]
