@@ -4974,5 +4974,19 @@
         },
         "source": "Direct From Artist",
         "title": "Saturn"
+    },
+    {
+        "artist": "Does It Offend You, Yeah",
+        "bpm": 126.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "Unknown",
+        "title": "Dawn Of Dead"
     }
 ]
