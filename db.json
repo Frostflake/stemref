@@ -4135,5 +4135,19 @@
         },
         "source": "Unknown",
         "title": "Rapper's Delight"
+    },
+    {
+        "artist": "Danzig",
+        "bpm": 129.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "Mother"
     }
 ]
