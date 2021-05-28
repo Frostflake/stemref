@@ -1174,5 +1174,19 @@
         },
         "source": "Rhythm Game",
         "title": "In a Big Country"
+    },
+    {
+        "artist": "Bikini Kill",
+        "bpm": 139.35,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "Rhythm Game",
+        "title": "Rebel Girl"
     }
 ]
