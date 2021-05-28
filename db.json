@@ -1998,5 +1998,18 @@
         },
         "source": "Remix Contest",
         "title": "ULTRAnumb"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 85.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Download",
+        "title": "You'll Get What's Coming (feat. Mark Salomon)"
     }
 ]
