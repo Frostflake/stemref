@@ -1717,5 +1717,19 @@
         },
         "source": "Rhythm Game",
         "title": "Rapture"
+    },
+    {
+        "artist": "Blood, Sweat, and Tears",
+        "bpm": 96.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Spinning Wheel"
     }
 ]
