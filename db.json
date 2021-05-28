@@ -67,5 +67,19 @@
         },
         "source": "Rhythm Game",
         "title": "Critical Acclaim"
+    },
+    {
+        "artist": "Avenged Sevenfold",
+        "bpm": 125.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Shepherd of Fire"
     }
 ]
