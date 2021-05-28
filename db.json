@@ -707,5 +707,19 @@
         },
         "source": "Remix Contest",
         "title": "Wheel of Fortune"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 133.4,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "Thunderstruck (live)"
     }
 ]
