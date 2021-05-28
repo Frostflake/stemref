@@ -886,5 +886,19 @@
         },
         "source": "Rhythm Game",
         "title": "Rock Lobster"
+    },
+    {
+        "artist": "Bad Company",
+        "bpm": 83.67,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Shooting Star"
     }
 ]
