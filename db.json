@@ -4660,5 +4660,19 @@
         },
         "source": "Rhythm Game",
         "title": "Uncontrollable Urge"
+    },
+    {
+        "artist": "Die Toten Hosen",
+        "bpm": 133.1,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Hier Kommt Alex"
     }
 ]
