@@ -2658,5 +2658,19 @@
         },
         "source": "Rhythm Game",
         "title": "Smokin'"
+    },
+    {
+        "artist": "Boston",
+        "bpm": 132.2,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Something About You"
     }
 ]
