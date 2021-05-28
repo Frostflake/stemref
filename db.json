@@ -16,7 +16,7 @@
         "artist": "Avenged Sevenfold",
         "bpm": 110.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 8,
@@ -31,7 +31,7 @@
         "bpm": 116.67,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -45,7 +45,7 @@
         "bpm": 115.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -58,7 +58,7 @@
         "artist": "Avenged Sevenfold",
         "bpm": 84.9,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 7,
@@ -73,7 +73,7 @@
         "bpm": 125.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -86,7 +86,7 @@
         "artist": "Avenged Sevenfold",
         "bpm": 152.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 5,
@@ -101,7 +101,7 @@
         "bpm": 130.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -115,7 +115,7 @@
         "bpm": 95.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -129,7 +129,7 @@
         "bpm": 125.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 5,
         "key": {
@@ -155,7 +155,7 @@
         "artist": "Black Sun Empire & Noisia",
         "bpm": 87.0,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -168,7 +168,7 @@
         "artist": "Awolnation",
         "bpm": 119.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 4,
@@ -197,7 +197,7 @@
         "artist": "311",
         "bpm": 117.5,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 7,
@@ -211,7 +211,7 @@
         "artist": "311",
         "bpm": 83.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 5,
@@ -225,7 +225,7 @@
         "artist": "311",
         "bpm": 84.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 6,
@@ -239,7 +239,7 @@
         "artist": "30 Seconds to Mars",
         "bpm": 87.5,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 7,
@@ -253,7 +253,7 @@
         "artist": "30 Seconds to Mars",
         "bpm": 122.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 7,
@@ -268,7 +268,7 @@
         "bpm": 148.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 5,
         "key": {
@@ -281,7 +281,7 @@
         "artist": "3 Doors Down",
         "bpm": 99.0,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -294,7 +294,7 @@
         "artist": "3 Doors Down",
         "bpm": 154.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 6,
@@ -309,7 +309,7 @@
         "bpm": 144.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -322,7 +322,7 @@
         "artist": "38 Special",
         "bpm": 126.5,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 7,
@@ -377,7 +377,7 @@
         "bpm": 82.4,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -391,7 +391,7 @@
         "bpm": 148.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -404,7 +404,7 @@
         "artist": "3OH\u00a13",
         "bpm": 86.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 7,
@@ -419,7 +419,7 @@
         "bpm": 96.75,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -433,7 +433,7 @@
         "bpm": 134.2,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -447,7 +447,7 @@
         "bpm": 104.45,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -461,7 +461,7 @@
         "bpm": 127.64,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -475,7 +475,7 @@
         "bpm": 119.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -488,7 +488,7 @@
         "artist": "AC/DC",
         "bpm": 127.3,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 7,
@@ -503,7 +503,7 @@
         "bpm": 116.4,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -516,7 +516,7 @@
         "artist": "AC/DC",
         "bpm": 139.6,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 7,
@@ -531,7 +531,7 @@
         "bpm": 123.6,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -544,7 +544,7 @@
         "artist": "Ace of Base",
         "bpm": 106.0,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -557,7 +557,7 @@
         "artist": "Ace of Base",
         "bpm": 104.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 5,
@@ -572,7 +572,7 @@
         "bpm": 131.85,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -586,7 +586,7 @@
         "bpm": 92.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -600,7 +600,7 @@
         "bpm": 108.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -614,7 +614,7 @@
         "bpm": 110.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -627,7 +627,7 @@
         "artist": "Ace of Base",
         "bpm": 97.0,
         "content": [
-            "multis",
+            "multi",
             "vox",
             "inst"
         ],
@@ -643,7 +643,7 @@
         "bpm": 124.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -657,7 +657,7 @@
         "bpm": 143.55,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -671,7 +671,7 @@
         "bpm": 133.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -685,7 +685,7 @@
         "bpm": 115.25,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 5,
         "key": {
@@ -698,7 +698,7 @@
         "artist": "Ace of Base",
         "bpm": 113.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 7,
@@ -713,7 +713,7 @@
         "bpm": 133.4,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -727,7 +727,7 @@
         "bpm": 119.5,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -741,7 +741,7 @@
         "bpm": 137.75,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 8,
         "key": {
@@ -755,7 +755,7 @@
         "bpm": 123.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -769,7 +769,7 @@
         "bpm": 87.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 9,
         "key": {
@@ -796,7 +796,7 @@
         "bpm": 105.25,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -809,7 +809,7 @@
         "artist": "Alice in Chains",
         "bpm": 116.8,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 5,
         "key": {
@@ -822,7 +822,7 @@
         "artist": "Alice in Chains",
         "bpm": 110.0,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 5,
         "key": {
@@ -835,7 +835,7 @@
         "artist": "B.o.B.",
         "bpm": 93.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 6,
@@ -850,7 +850,7 @@
         "bpm": 89.45,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 4,
         "key": {
@@ -864,7 +864,7 @@
         "bpm": 132.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -877,7 +877,7 @@
         "artist": "B-52s",
         "bpm": 112.15,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 6,
@@ -891,7 +891,7 @@
         "artist": "Bad Company",
         "bpm": 83.67,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 5,
@@ -906,7 +906,7 @@
         "bpm": 125.5,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 4,
         "key": {
@@ -920,7 +920,7 @@
         "bpm": 140.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -934,7 +934,7 @@
         "bpm": 112.7,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -948,7 +948,7 @@
         "bpm": 132.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -961,7 +961,7 @@
         "artist": "BB Brunes",
         "bpm": 131.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 5,
@@ -975,7 +975,7 @@
         "artist": "Beach Boys",
         "bpm": 157.75,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 4,
         "key": {
@@ -988,7 +988,7 @@
         "artist": "Beastie Boys",
         "bpm": 96.82,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 6,
@@ -1003,7 +1003,7 @@
         "bpm": 108.88,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 5,
         "key": {
@@ -1017,7 +1017,7 @@
         "bpm": 85.5,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 5,
         "key": {
@@ -1031,7 +1031,7 @@
         "bpm": 98.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1044,7 +1044,7 @@
         "artist": "Beastie Boys",
         "bpm": 83.37,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 6,
@@ -1058,7 +1058,7 @@
         "artist": "Beastie Boys vs. Lenny Kravitz",
         "bpm": 101.0,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1071,7 +1071,7 @@
         "artist": "Beastie Boys vs. Tone Loc",
         "bpm": 117.62,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1084,7 +1084,7 @@
         "artist": "Beck",
         "bpm": 138.33,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1097,7 +1097,7 @@
         "artist": "Beck",
         "bpm": 95.75,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 7,
@@ -1112,7 +1112,7 @@
         "bpm": 84.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1125,7 +1125,7 @@
         "artist": "Ben Harper and the Innocent Criminals",
         "bpm": 101.0,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 4,
         "key": {
@@ -1139,7 +1139,7 @@
         "bpm": 125.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1152,7 +1152,7 @@
         "artist": "Big Boi feat. Cutty vs. Mark Morrison",
         "bpm": 99.0,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1166,7 +1166,7 @@
         "bpm": 126.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1180,7 +1180,7 @@
         "bpm": 139.35,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1194,7 +1194,7 @@
         "bpm": 88.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1208,7 +1208,7 @@
         "bpm": 135.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1222,7 +1222,7 @@
         "bpm": 147.58,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1236,7 +1236,7 @@
         "bpm": 127.15,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1249,7 +1249,7 @@
         "artist": "Billy Joel",
         "bpm": 106.0,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 5,
@@ -1264,7 +1264,7 @@
         "bpm": 130.2,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1278,7 +1278,7 @@
         "bpm": 142.5,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1292,7 +1292,7 @@
         "bpm": 98.25,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1306,7 +1306,7 @@
         "bpm": 126.64,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 3,
         "key": {
@@ -1319,7 +1319,7 @@
         "artist": "Billy Squier",
         "bpm": 104.75,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 7,
@@ -1334,7 +1334,7 @@
         "bpm": 131.15,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1348,7 +1348,7 @@
         "bpm": 90.8,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 4,
         "key": {
@@ -1362,7 +1362,7 @@
         "bpm": 109.42,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1375,7 +1375,7 @@
         "artist": "Billy Squier",
         "bpm": 123.3,
         "content": [
-            "multis",
+            "multi",
             "vox"
         ],
         "energy": 6,
@@ -1389,7 +1389,7 @@
         "artist": "Black Eyed Peas",
         "bpm": 128.0,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1402,7 +1402,7 @@
         "artist": "Black Label Society",
         "bpm": 107.0,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1416,7 +1416,7 @@
         "bpm": 96.75,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1430,7 +1430,7 @@
         "bpm": 154.5,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1444,7 +1444,7 @@
         "bpm": 103.7,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 4,
         "key": {
@@ -1458,7 +1458,7 @@
         "bpm": 81.75,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1472,7 +1472,7 @@
         "bpm": 146.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1486,7 +1486,7 @@
         "bpm": 110.75,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1500,7 +1500,7 @@
         "bpm": 92.5,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1528,7 +1528,7 @@
         "bpm": 153.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 4,
         "key": {
@@ -1542,7 +1542,7 @@
         "bpm": 96.5,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1556,7 +1556,7 @@
         "bpm": 106.5,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1570,7 +1570,7 @@
         "bpm": 148.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1584,7 +1584,7 @@
         "bpm": 79.15,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1598,7 +1598,7 @@
         "bpm": 109.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1612,7 +1612,7 @@
         "bpm": 95.62,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1626,7 +1626,7 @@
         "bpm": 158.4,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1639,7 +1639,7 @@
         "artist": "Bloc Party",
         "bpm": 85.0,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 3,
         "key": {
@@ -1653,7 +1653,7 @@
         "bpm": 136.75,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1667,7 +1667,7 @@
         "bpm": 142.75,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 8,
         "key": {
@@ -1681,7 +1681,7 @@
         "bpm": 952.4,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1695,7 +1695,7 @@
         "bpm": 81.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1709,7 +1709,7 @@
         "bpm": 108.33,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1723,7 +1723,7 @@
         "bpm": 96.0,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 4,
         "key": {
@@ -1736,7 +1736,7 @@
         "artist": "Blue \u00d6yster Cult",
         "bpm": 134.5,
         "content": [
-            "multis"
+            "multi"
         ],
         "energy": 7,
         "key": {
@@ -1750,7 +1750,7 @@
         "bpm": 142.85,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 6,
         "key": {
@@ -1764,7 +1764,7 @@
         "bpm": 91.3,
         "content": [
             "vox",
-            "multis"
+            "multi"
         ],
         "energy": 4,
         "key": {

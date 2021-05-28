@@ -91,7 +91,7 @@ background-color: #F1F1F1;
 			file.write('<img src="img/diy.png" alt="DIY Vox" title="DIY vocals are archived!">')
 		else:
 			file.write('<img src="img/novox.png" alt="No Vox" title="The vocals are not yet archived.">')
-		if 'multis' in database[song]["content"]:
+		if 'multi' in database[song]["content"]:
 			file.write('<img src="img/multis.png" alt="Multitracks" title="The multitracks are archived!">')
 		else:
 			file.write('<img src="img/nomultis.png" alt="No Multitracks" title="The multitracks are not yet archived.">')
