@@ -830,5 +830,19 @@
         },
         "source": "Rhythm Game",
         "title": "Them Bones"
+    },
+    {
+        "artist": "B.o.B.",
+        "bpm": 93.0,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Rhythm Game",
+        "title": "Airplanes (feat. Haylee Williams)"
     }
 ]
