@@ -1564,5 +1564,19 @@
         },
         "source": "Rhythm Game",
         "title": "Aliens Exist"
+    },
+    {
+        "artist": "Blink-182",
+        "bpm": 148.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "All the Small Things"
     }
 ]
