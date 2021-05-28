@@ -3884,5 +3884,19 @@
         },
         "source": "Rhythm Game",
         "title": "Down on the Corner"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 133.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Fortunate Son (Original Version)"
     }
 ]
