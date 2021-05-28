@@ -4176,5 +4176,19 @@
         },
         "source": "Unknown",
         "title": "Sandstorm"
+    },
+    {
+        "artist": "Dashboard Confessional",
+        "bpm": 94.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "Hands Down"
     }
 ]
