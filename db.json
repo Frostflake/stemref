@@ -3787,5 +3787,19 @@
         },
         "source": "Rhythm Game",
         "title": "Put Your Records On"
+    },
+    {
+        "artist": "Count Zero",
+        "bpm": 144.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Shake"
     }
 ]
