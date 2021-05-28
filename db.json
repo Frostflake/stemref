@@ -4356,5 +4356,19 @@
         },
         "source": "Rhythm Game",
         "title": "Holiday in Cambodia"
+    },
+    {
+        "artist": "Dead Kennedys",
+        "bpm": 131.21,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Police Truck"
     }
 ]
