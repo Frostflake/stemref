@@ -4039,5 +4039,19 @@
         },
         "source": "Rhythm Game",
         "title": "Gone"
+    },
+    {
+        "artist": "Crooked X",
+        "bpm": 130.65,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Nightmare"
     }
 ]
