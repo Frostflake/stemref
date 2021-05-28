@@ -4785,5 +4785,19 @@
         },
         "source": "Rhythm Game",
         "title": "Meaning of Life"
+    },
+    {
+        "artist": "Disturbed",
+        "bpm": 86.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Rhythm Game",
+        "title": "Perfect Insanity"
     }
 ]
