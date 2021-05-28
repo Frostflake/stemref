@@ -817,5 +817,18 @@
         },
         "source": "Rhythm Game",
         "title": "No Excuses"
+    },
+    {
+        "artist": "Alice in Chains",
+        "bpm": 110.0,
+        "content": [
+            "multis"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Them Bones"
     }
 ]
