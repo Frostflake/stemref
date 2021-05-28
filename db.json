@@ -1424,5 +1424,19 @@
         },
         "source": "Rhythm Game",
         "title": "After Forever"
+    },
+    {
+        "artist": "Black Sabbath",
+        "bpm": 154.5,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Into The Void"
     }
 ]
