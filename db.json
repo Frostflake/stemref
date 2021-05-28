@@ -5096,5 +5096,19 @@
         },
         "source": "Rhythm Game",
         "title": "Revolution Deathsquad"
+    },
+    {
+        "artist": "DragonForce",
+        "bpm": 100.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Through the Fire and Flames"
     }
 ]
