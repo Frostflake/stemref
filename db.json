@@ -525,5 +525,19 @@
         },
         "source": "Rhythm Game",
         "title": "High Voltage (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 123.6,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Highway to Hell (live)"
     }
 ]
