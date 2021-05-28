@@ -2039,5 +2039,19 @@
         },
         "source": "Rhythm Game",
         "title": "All Along the Watchtower"
+    },
+    {
+        "artist": "Bob Dylan",
+        "bpm": 97.25,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Tangled Up in Blue"
     }
 ]
