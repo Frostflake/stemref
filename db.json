@@ -1661,5 +1661,19 @@
         },
         "source": "Rhythm Game",
         "title": "Atomic"
+    },
+    {
+        "artist": "Blondie",
+        "bpm": 142.75,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Call Me"
     }
 ]
