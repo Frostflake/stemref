@@ -511,5 +511,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hells Bells (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 139.6,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "High Voltage (live)"
     }
 ]
