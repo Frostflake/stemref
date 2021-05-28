@@ -4328,5 +4328,19 @@
         },
         "source": "Unknown",
         "title": "Good Day Today (Original Mix)"
+    },
+    {
+        "artist": "Dead Kennedys",
+        "bpm": 84.83,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "California \u00dcber Alles"
     }
 ]
