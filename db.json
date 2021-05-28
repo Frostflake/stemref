@@ -3996,5 +3996,20 @@
         },
         "source": "Rhythm Game",
         "title": "Travelin' Band"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 129.75,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B",
+            "secondary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Up Around the Bend"
     }
 ]
