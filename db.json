@@ -2234,5 +2234,19 @@
         },
         "source": "Rhythm Game",
         "title": "Them Belly Full (But We Hungry)"
+    },
+    {
+        "artist": "Bob Seger & The Silver Buller Band",
+        "bpm": 151.15,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Hollywood Nights"
     }
 ]
