@@ -206,5 +206,19 @@
         },
         "source": "Rhythm Game",
         "title": "Down"
+    },
+    {
+        "artist": "311",
+        "bpm": 83.0,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Amber"
     }
 ]
