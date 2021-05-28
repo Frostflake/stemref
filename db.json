@@ -4287,5 +4287,19 @@
         },
         "source": "Rhythm Game",
         "title": "Space Oddity"
+    },
+    {
+        "artist": "David Bowie",
+        "bpm": 141.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Suffragette City"
     }
 ]
