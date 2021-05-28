@@ -1342,5 +1342,19 @@
         },
         "source": "Rhythm Game",
         "title": "Everybody Wants You"
+    },
+    {
+        "artist": "Billy Squier",
+        "bpm": 90.8,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "The Stroke"
     }
 ]
