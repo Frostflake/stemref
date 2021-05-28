@@ -5070,5 +5070,18 @@
         },
         "source": "Rhythm Game",
         "title": "Heroes Of Our Time"
+    },
+    {
+        "artist": "DragonForce",
+        "bpm": 119.89,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Operation Ground & Pound"
     }
 ]
