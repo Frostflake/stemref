@@ -1480,5 +1480,19 @@
         },
         "source": "Rhythm Game",
         "title": "Sweet Leaf"
+    },
+    {
+        "artist": "Black Sabbath",
+        "bpm": 110.75,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "War Pigs"
     }
 ]
