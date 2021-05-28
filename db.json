@@ -539,5 +539,18 @@
         },
         "source": "Rhythm Game",
         "title": "Highway to Hell (live)"
+    },
+    {
+        "artist": "Ace of Base",
+        "bpm": 106.0,
+        "content": [
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Remix Contest",
+        "title": "Don't Turn Around"
     }
 ]
