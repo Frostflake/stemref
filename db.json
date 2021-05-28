@@ -4894,5 +4894,20 @@
         },
         "source": "Direct From Artist",
         "title": "Mortar"
+    },
+    {
+        "artist": "DJ Kurokit ft. Jeremy Wishengrad (Chaojimbo)",
+        "bpm": 128.0,
+        "content": [
+            "stems",
+            "project"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "2A",
+            "secondary": "2B"
+        },
+        "source": "Direct From Artist",
+        "title": "Soul Searching"
     }
 ]
