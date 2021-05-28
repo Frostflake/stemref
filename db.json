@@ -651,5 +651,19 @@
         },
         "source": "Rhythm Game",
         "title": "Moneytalks (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 143.55,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Shoot to Thrill (live)"
     }
 ]
