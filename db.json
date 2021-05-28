@@ -2518,5 +2518,19 @@
         },
         "source": "Rhythm Game",
         "title": "Wanted Dead or Alive"
+    },
+    {
+        "artist": "Bon Jovi",
+        "bpm": 126.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Rhythm Game",
+        "title": "We Weren't Born to Follow"
     }
 ]
