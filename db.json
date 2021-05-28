@@ -248,5 +248,19 @@
         },
         "source": "Rhythm Game",
         "title": "Attack"
+    },
+    {
+        "artist": "30 Seconds to Mars",
+        "bpm": 122.0,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "The Kill"
     }
 ]
