@@ -1918,5 +1918,18 @@
         },
         "source": "Download",
         "title": "Rockstar"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 88.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Download",
+        "title": "Shoot Em Up"
     }
 ]
