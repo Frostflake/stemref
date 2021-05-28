@@ -2206,5 +2206,19 @@
         },
         "source": "Rhythm Game",
         "title": "No More Trouble"
+    },
+    {
+        "artist": "Bob Marley and the Wailers",
+        "bpm": 119.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Small Axe"
     }
 ]
