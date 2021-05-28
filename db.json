@@ -2616,5 +2616,19 @@
         },
         "source": "Rhythm Game",
         "title": "More Than A Feeling"
+    },
+    {
+        "artist": "Boston",
+        "bpm": 128.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Peace of Mind"
     }
 ]
