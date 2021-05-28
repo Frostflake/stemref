@@ -1,4 +1,4 @@
-import json
+import json, subprocess
 
 with open("db.json") as db_json:
 	database = json.load(db_json)
@@ -19,3 +19,7 @@ database.append(new_song)
 
 with open("db.json", "w") as db_json:
 	json.dump(database, db_json, indent = 4, sort_keys=True)
+
+subprocess.run(['python3', 'generate.py'])
+subprocess.run(['git', 'commit', '--message', 'Add ' + new_song["title"] + ' by ' + new_song["artist"], 'db.json', 'index.html'])
+subprocess.run(['git', 'push'])
