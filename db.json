@@ -455,5 +455,19 @@
         },
         "source": "Rhythm Game",
         "title": "Fire Your Guns (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 127.64,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "For Those About to Rock (We Salute You) (live)"
     }
 ]
