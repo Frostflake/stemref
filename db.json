@@ -3435,5 +3435,18 @@
         },
         "source": "Download",
         "title": "Back to You (feat. Kelly Zutrau)"
+    },
+    {
+        "artist": "Clams Casino",
+        "bpm": 92.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Download",
+        "title": "Be Somebody (feat. A$AP Rocky & Lil B)"
     }
 ]
