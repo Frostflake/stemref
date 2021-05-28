@@ -2136,5 +2136,19 @@
         },
         "source": "Rhythm Game",
         "title": "Burnin' And Lootin'"
+    },
+    {
+        "artist": "Bob Marley and the Wailers",
+        "bpm": 138.75,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "Coming In From The Cold"
     }
 ]
