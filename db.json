@@ -3115,5 +3115,18 @@
         },
         "source": "Download",
         "title": "End of an Empire (Comaduster Remix)"
+    },
+    {
+        "artist": "Celldweller",
+        "bpm": 89.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Download",
+        "title": "Good L_ck (Yo_'re F_cked)"
     }
 ]
