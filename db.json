@@ -2993,5 +2993,18 @@
         },
         "source": "Rhythm Game",
         "title": "Kung Fu Fighting"
+    },
+    {
+        "artist": "Casey LaLonde",
+        "bpm": 175.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Direct From Artist",
+        "title": "Heartfelts"
     }
 ]
