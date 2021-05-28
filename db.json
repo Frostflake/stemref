@@ -914,5 +914,19 @@
         },
         "source": "Rhythm Game",
         "title": "Can't Get Enough"
+    },
+    {
+        "artist": "Bad Religion",
+        "bpm": 140.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Sorrow"
     }
 ]
