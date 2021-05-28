@@ -3870,5 +3870,19 @@
         },
         "source": "Rhythm Game",
         "title": "Commotion"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 107.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "Down on the Corner"
     }
 ]
