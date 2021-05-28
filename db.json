@@ -693,5 +693,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Jack (live)"
+    },
+    {
+        "artist": "Ace of Base",
+        "bpm": 113.0,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Remix Contest",
+        "title": "Wheel of Fortune"
     }
 ]
