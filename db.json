@@ -1522,5 +1522,19 @@
         },
         "source": "Download",
         "title": "The Betrayal"
+    },
+    {
+        "artist": "Blind Melon",
+        "bpm": 153.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "No Rain"
     }
 ]
