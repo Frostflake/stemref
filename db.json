@@ -3006,5 +3006,19 @@
         },
         "source": "Direct From Artist",
         "title": "Heartfelts"
+    },
+    {
+        "artist": "Celldweller",
+        "bpm": 132.0,
+        "content": [
+            "inst",
+            "diy"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Download",
+        "title": "Breakout feat. Scandroid"
     }
 ]
