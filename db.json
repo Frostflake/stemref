@@ -2841,5 +2841,19 @@
         },
         "source": "Remix Contest",
         "title": "Crazy Bitch"
+    },
+    {
+        "artist": "Buckcherry",
+        "bpm": 153.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Remix Contest",
+        "title": "Rescue Me"
     }
 ]
