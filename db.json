@@ -1328,5 +1328,19 @@
         },
         "source": "Rhythm Game",
         "title": "Christmas is the Time to Say \"I Love You\""
+    },
+    {
+        "artist": "Billy Squier",
+        "bpm": 131.15,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Everybody Wants You"
     }
 ]
