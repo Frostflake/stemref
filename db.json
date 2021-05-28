@@ -4988,5 +4988,19 @@
         },
         "source": "Unknown",
         "title": "Dawn Of Dead"
+    },
+    {
+        "artist": "Doobie Brothers",
+        "bpm": 147.78,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "China Grove"
     }
 ]
