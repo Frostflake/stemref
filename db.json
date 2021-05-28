@@ -289,5 +289,19 @@
         },
         "source": "Rhythm Game",
         "title": "Kryptonite"
+    },
+    {
+        "artist": "3 Doors Down",
+        "bpm": 154.0,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "When You're Young"
     }
 ]
