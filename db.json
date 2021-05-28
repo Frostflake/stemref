@@ -900,5 +900,19 @@
         },
         "source": "Rhythm Game",
         "title": "Shooting Star"
+    },
+    {
+        "artist": "Bad Company",
+        "bpm": 125.5,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "7B"
+        },
+        "source": "Rhythm Game",
+        "title": "Can't Get Enough"
     }
 ]
