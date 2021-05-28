@@ -3448,5 +3448,18 @@
         },
         "source": "Download",
         "title": "Be Somebody (feat. A$AP Rocky & Lil B)"
+    },
+    {
+        "artist": "Clams Casino",
+        "bpm": 126.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Download",
+        "title": "Blast"
     }
 ]
