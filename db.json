@@ -970,5 +970,18 @@
         },
         "source": "Rhythm Game",
         "title": "Dis-Moi"
+    },
+    {
+        "artist": "Beach Boys",
+        "bpm": 157.75,
+        "content": [
+            "multis"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "3A"
+        },
+        "source": "Rhythm Game",
+        "title": "Good Vibrations (live)"
     }
 ]
