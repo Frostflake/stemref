@@ -4109,5 +4109,18 @@
         },
         "source": "Rhythm Game",
         "title": "Do You Really Want To Hurt Me"
+    },
+    {
+        "artist": "Damp Hit",
+        "bpm": 90.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Remix Contest",
+        "title": "This Is a Test"
     }
 ]
