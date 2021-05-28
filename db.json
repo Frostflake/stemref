@@ -3369,5 +3369,19 @@
         },
         "source": "Unknown",
         "title": "Tenderoni"
+    },
+    {
+        "artist": "Chumbawumba",
+        "bpm": 104.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Tubthumping"
     }
 ]
