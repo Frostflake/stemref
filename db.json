@@ -1066,5 +1066,18 @@
         },
         "source": "Rhythm Game",
         "title": "Body Movin' vs. Rock and Roll Is Dead"
+    },
+    {
+        "artist": "Beastie Boys vs. Tone Loc",
+        "bpm": 117.62,
+        "content": [
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Triple Trouble vs. Funky Cold Medina"
     }
 ]
