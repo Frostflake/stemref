@@ -1452,5 +1452,19 @@
         },
         "source": "Rhythm Game",
         "title": "NIB"
+    },
+    {
+        "artist": "Black Sabbath",
+        "bpm": 81.75,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Paranoid (cover)"
     }
 ]
