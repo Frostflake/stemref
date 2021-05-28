@@ -4547,5 +4547,19 @@
         },
         "source": "Unknown",
         "title": "Rock of Ages"
+    },
+    {
+        "artist": "Depeche Mode",
+        "bpm": 106.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Never Let Me Down Again"
     }
 ]
