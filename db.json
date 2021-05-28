@@ -303,5 +303,19 @@
         },
         "source": "Rhythm Game",
         "title": "When You're Young"
+    },
+    {
+        "artist": "3 Doors Down",
+        "bpm": 144.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "3A"
+        },
+        "source": "Rhythm Game",
+        "title": "Here Without You"
     }
 ]
