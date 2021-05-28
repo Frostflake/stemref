@@ -1202,5 +1202,19 @@
         },
         "source": "Rhythm Game",
         "title": "Dancing With Myself"
+    },
+    {
+        "artist": "Billy Idol",
+        "bpm": 135.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Rhythm Game",
+        "title": "Mony Mony"
     }
 ]
