@@ -2462,5 +2462,19 @@
         },
         "source": "Rhythm Game",
         "title": "I'll Be There For You"
+    },
+    {
+        "artist": "Bon Jovi",
+        "bpm": 120.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "It's My Life"
     }
 ]
