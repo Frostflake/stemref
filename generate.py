@@ -76,7 +76,34 @@ background-color: #F1F1F1;
 		file.write('<td class="td0" align="center" width="30">' + song["key"]["primary"] + '<br></td>')
 		file.write('<td class="td0" align="center" width="30">' + str(song["bpm"]) + '<br></td>')
 		file.write('<td class="td0" align="center" width="30">' + str(song["energy"]) + '<br></td>')
-		file.write('<td class="td0" align="center" width="100"><br></td>')
+		file.write('<td class="td0" align="center" width="100">')
+		if 'inst' in song["content"]:
+			file.write('<img src="img/instrumental.png" alt="Instrumental" title="The instrumental is archived!">')
+		else:
+			file.write('<img src="img/noinstrumental.png" alt="No Instrumental" title="The instrumental is not yet archived.">')
+		if 'vox' in song["content"]:
+			file.write('<img src="img/vox.png" alt="Vox" title="The studio vocals are archived!">')
+		elif 'diy_vox' in song["content"]:
+			file.write('<img src="img/diy.png" alt="DIY Vox" title="DIY vocals are archived!">')
+		else:
+			file.write('<img src="img/novox.png" alt="No Vox" title="The vocals are not yet archived.">')
+		if 'multis' in song["content"]:
+			file.write('<img src="img/multis.png" alt="Multitracks" title="The multitracks are archived!">')
+		else:
+			file.write('<img src="img/nomultis.png" alt="No Multitracks" title="The multitracks are not yet archived.">')
+		if 'stems' in song["content"]:
+			file.write('<img src="img/stems.png" alt="Stems" title="The stems are archived!">')
+		else:
+			file.write('<img src="img/nostems.png" alt="No Stems" title="The stems are not yet archived.">')
+		if 'project' in song["content"]:
+			file.write('<img src="img/project.png" alt="Project" title="The project is archived!">')
+		else:
+			file.write('<img src="img/noproject.png" alt="No Project" title="The project is not yet archived.">')
+		if 'other' in song["content"]:
+			file.write('<img src="img/other.png" alt="Other" title="Something else is archived!">')
+		else:
+			file.write('<img src="img/noother.png" alt="No Other" title="Nothing else is archived.">')
+		file.write('<br></td>')
 		file.write('<td class="td0" align="center" width="20">' + song["source"] + '<br></td></tr>')
 		index += 1
 	file.write("</table>")
