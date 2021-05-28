@@ -3154,5 +3154,18 @@
         },
         "source": "Download",
         "title": "Jericho"
+    },
+    {
+        "artist": "Celldweller",
+        "bpm": 110.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Download",
+        "title": "Jericho (Circle of Dust Remix)"
     }
 ]
