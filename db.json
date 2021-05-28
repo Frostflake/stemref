@@ -1011,5 +1011,19 @@
         },
         "source": "Rhythm Game",
         "title": "Gratitude"
+    },
+    {
+        "artist": "Beastie Boys",
+        "bpm": 85.5,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Rhythm Game",
+        "title": "So What'cha Want"
     }
 ]
