@@ -3677,5 +3677,19 @@
         },
         "source": "Rhythm Game",
         "title": "Shiver"
+    },
+    {
+        "artist": "Coldplay",
+        "bpm": 146.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "7B"
+        },
+        "source": "Rhythm Game",
+        "title": "The Scientist"
     }
 ]
