@@ -1879,5 +1879,18 @@
         },
         "source": "Remix Contest",
         "title": "Metamorphosis"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 100.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Download",
+        "title": "Not Over Til We Say So (feat. Emma Anzai of Sick Puppies)"
     }
 ]
