@@ -4757,5 +4757,19 @@
         },
         "source": "Rhythm Game",
         "title": "Indestructible"
+    },
+    {
+        "artist": "Disturbed",
+        "bpm": 94.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Rhythm Game",
+        "title": "Inside the Fire"
     }
 ]
