@@ -1772,5 +1772,19 @@
         },
         "source": "Rhythm Game",
         "title": "Godzilla"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 132.0,
+        "content": [
+            "inst",
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Remix Contest",
+        "title": "Anti You"
     }
 ]
