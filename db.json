@@ -749,5 +749,19 @@
         },
         "source": "Rhythm Game",
         "title": "You Shook Me All Night Long (live)"
+    },
+    {
+        "artist": "Adventure Club",
+        "bpm": 123.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Remix Contest",
+        "title": "Wonder"
     }
 ]
