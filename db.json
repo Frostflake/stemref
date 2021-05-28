@@ -2342,5 +2342,18 @@
         },
         "source": "Direct From Artist",
         "title": "Holocene"
+    },
+    {
+        "artist": "Bon Iver",
+        "bpm": 129.8,
+        "content": [
+            "multi"
+        ],
+        "energy": 2,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Direct From Artist",
+        "title": "Lisbon, OH"
     }
 ]
