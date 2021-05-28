@@ -4095,5 +4095,19 @@
         },
         "source": "Direct From Artist",
         "title": "Bi\u2623hazard"
+    },
+    {
+        "artist": "Culture Club",
+        "bpm": 100.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Do You Really Want To Hurt Me"
     }
 ]
