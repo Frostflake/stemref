@@ -25,5 +25,19 @@
         },
         "source": "Rhythm Game",
         "title": "Afterlife"
+    },
+    {
+        "artist": "Avenged Sevenfold",
+        "bpm": 116.67,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Almost Easy"
     }
 ]
