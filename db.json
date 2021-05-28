@@ -1758,5 +1758,19 @@
         },
         "source": "Rhythm Game",
         "title": "(Don't Fear) The Reaper"
+    },
+    {
+        "artist": "Blue \u00d6yster Cult",
+        "bpm": 91.3,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Rhythm Game",
+        "title": "Godzilla"
     }
 ]
