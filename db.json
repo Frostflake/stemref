@@ -4067,5 +4067,19 @@
         },
         "source": "Rhythm Game",
         "title": "Rock 'n' Roll Dream"
+    },
+    {
+        "artist": "CrusherP",
+        "bpm": 140.0,
+        "content": [
+            "inst",
+            "other"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Direct From Artist",
+        "title": "Echo"
     }
 ]
