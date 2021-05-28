@@ -3034,5 +3034,19 @@
         },
         "source": "Download",
         "title": "Breakout feat. Scandroid (Scandroid Remix)"
+    },
+    {
+        "artist": "Celldweller",
+        "bpm": 140.0,
+        "content": [
+            "inst",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Download",
+        "title": "Cry Little Sister vs. Hello Zepp (Celldweller Klash-Up)"
     }
 ]
