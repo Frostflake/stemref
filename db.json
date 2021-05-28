@@ -39,5 +39,19 @@
         },
         "source": "Rhythm Game",
         "title": "Almost Easy"
+    },
+    {
+        "artist": "Avenged Sevenfold",
+        "bpm": 115.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Beast and the Harlot"
     }
 ]
