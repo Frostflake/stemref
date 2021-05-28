@@ -3342,5 +3342,18 @@
         },
         "source": "Remix Contest",
         "title": "Drown"
+    },
+    {
+        "artist": "Christina Marie Magenta",
+        "bpm": 88.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Remix Contest",
+        "title": "Lunatic"
     }
 ]
