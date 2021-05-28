@@ -1397,5 +1397,18 @@
         },
         "source": "Rhythm Game",
         "title": "I've Got a Feeling"
+    },
+    {
+        "artist": "Black Label Society",
+        "bpm": 107.0,
+        "content": [
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Unknown",
+        "title": "Stillborn"
     }
 ]
