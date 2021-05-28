@@ -1592,5 +1592,19 @@
         },
         "source": "Rhythm Game",
         "title": "Always"
+    },
+    {
+        "artist": "Blink-182",
+        "bpm": 109.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Dammit"
     }
 ]
