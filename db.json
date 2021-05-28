@@ -2757,5 +2757,19 @@
         },
         "source": "Remix Contest",
         "title": "Born to Run"
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "bpm": 115.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Remix Contest",
+        "title": "The River"
     }
 ]
