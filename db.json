@@ -4881,5 +4881,18 @@
         },
         "source": "Direct From Artist",
         "title": "Lopsided Wobble"
+    },
+    {
+        "artist": "DJ Kurokit",
+        "bpm": 135.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Direct From Artist",
+        "title": "Mortar"
     }
 ]
