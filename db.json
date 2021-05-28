@@ -2715,5 +2715,19 @@
         },
         "source": "Remix Contest",
         "title": "Blackout"
+    },
+    {
+        "artist": "Breathe Carolina",
+        "bpm": 124.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 9,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Remix Contest",
+        "title": "Hit and Run"
     }
 ]
