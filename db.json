@@ -1230,5 +1230,19 @@
         },
         "source": "Rhythm Game",
         "title": "White Wedding (Part 1)"
+    },
+    {
+        "artist": "Billy Joel",
+        "bpm": 127.15,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "I Go to Extremes"
     }
 ]
