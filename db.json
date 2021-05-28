@@ -2094,5 +2094,19 @@
         },
         "source": "Masters",
         "title": "Lively Up Yourself"
+    },
+    {
+        "artist": "Bob Marley",
+        "bpm": 97.83,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Masters",
+        "title": "No Woman No Cry"
     }
 ]
