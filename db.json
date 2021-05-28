@@ -3287,5 +3287,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hello There"
+    },
+    {
+        "artist": "Cheap Trick",
+        "bpm": 107.7,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "I Want You To Want Me (Live)"
     }
 ]
