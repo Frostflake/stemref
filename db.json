@@ -3101,5 +3101,19 @@
         },
         "source": "Download",
         "title": "End of an Empire (Breathe Carolina Remix)"
+    },
+    {
+        "artist": "Celldweller",
+        "bpm": 132.82,
+        "content": [
+            "inst",
+            "diy"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Download",
+        "title": "End of an Empire (Comaduster Remix)"
     }
 ]
