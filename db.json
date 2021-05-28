@@ -331,5 +331,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hold On Loosely"
+    },
+    {
+        "artist": "\u897f\u5ddd\u8cb4\u6559",
+        "bpm": 120.0,
+        "content": [
+            "inst",
+            "diy"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "CD",
+        "title": "Bright Burning Shout"
     }
 ]
