@@ -2700,5 +2700,20 @@
         },
         "source": "Rhythm Game",
         "title": "Shoulder to the Plow"
+    },
+    {
+        "artist": "Breathe Carolina",
+        "bpm": 123.0,
+        "content": [
+            "multi",
+            "stems",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Remix Contest",
+        "title": "Blackout"
     }
 ]
