@@ -2644,5 +2644,19 @@
         },
         "source": "Rhythm Game",
         "title": "Rock and Roll Band"
+    },
+    {
+        "artist": "Boston",
+        "bpm": 85.6,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Smokin'"
     }
 ]
