@@ -1314,5 +1314,19 @@
         },
         "source": "Unknown",
         "title": "She's Always a Woman"
+    },
+    {
+        "artist": "Billy Squier",
+        "bpm": 104.75,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Rhythm Game",
+        "title": "Christmas is the Time to Say \"I Love You\""
     }
 ]
