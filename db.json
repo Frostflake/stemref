@@ -4149,5 +4149,19 @@
         },
         "source": "Rhythm Game",
         "title": "Mother"
+    },
+    {
+        "artist": "Darius",
+        "bpm": 156.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "6B",
+            "secondary": "6A"
+        },
+        "source": "Direct From Artist",
+        "title": "Cosmohounds Heart"
     }
 ]
