@@ -2178,5 +2178,19 @@
         },
         "source": "Rhythm Game",
         "title": "Kaya"
+    },
+    {
+        "artist": "Bob Marley and the Wailers",
+        "bpm": 128.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 3,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Lively Up Yourself"
     }
 ]
