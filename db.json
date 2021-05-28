@@ -3773,5 +3773,19 @@
         },
         "source": "Download",
         "title": "Gangsta's Paradise"
+    },
+    {
+        "artist": "Corinne Bailey Rae",
+        "bpm": 96.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Put Your Records On"
     }
 ]
