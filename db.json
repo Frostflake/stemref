@@ -2588,5 +2588,19 @@
         },
         "source": "Rhythm Game",
         "title": "Fore Play Long Time"
+    },
+    {
+        "artist": "Boston",
+        "bpm": 118.33,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "Hitch A Ride"
     }
 ]
