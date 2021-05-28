@@ -53,5 +53,19 @@
         },
         "source": "Rhythm Game",
         "title": "Beast and the Harlot"
+    },
+    {
+        "artist": "Avenged Sevenfold",
+        "bpm": 84.9,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Critical Acclaim"
     }
 ]
