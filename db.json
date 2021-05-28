@@ -3141,5 +3141,18 @@
         },
         "source": "Download",
         "title": "Heart On"
+    },
+    {
+        "artist": "Celldweller",
+        "bpm": 95.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Download",
+        "title": "Jericho"
     }
 ]
