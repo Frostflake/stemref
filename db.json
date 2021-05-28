@@ -3567,5 +3567,19 @@
         },
         "source": "Rhythm Game",
         "title": "Ten Speed (Of God's Blood & Burial)"
+    },
+    {
+        "artist": "Coheed and Cambria",
+        "bpm": 154.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Rhythm Game",
+        "title": "Welcome Home"
     }
 ]
