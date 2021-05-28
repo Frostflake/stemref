@@ -3926,5 +3926,19 @@
         },
         "source": "Rhythm Game",
         "title": "Heard It Through The Grapevine"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 105.3,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "6B"
+        },
+        "source": "Rhythm Game",
+        "title": "Lookin' Out My Back Door"
     }
 ]
