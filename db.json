@@ -11,5 +11,19 @@
         },
         "source": "Remix Contest",
         "title": "Red"
+    },
+    {
+        "artist": "Avenged Sevenfold",
+        "bpm": 110.0,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Afterlife"
     }
 ]
