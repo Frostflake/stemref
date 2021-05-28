@@ -1120,5 +1120,18 @@
         },
         "source": "Rhythm Game",
         "title": "Gamma Ray"
+    },
+    {
+        "artist": "Ben Harper and the Innocent Criminals",
+        "bpm": 101.0,
+        "content": [
+            "multis"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Steal My Kisses"
     }
 ]
