@@ -489,7 +489,7 @@
         "bpm": 127.3,
         "content": [
             "multis",
-            "stems"
+            "vox"
         ],
         "energy": 7,
         "key": {
@@ -497,5 +497,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hell Ain't a Bad Place to Be (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 116.4,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Hells Bells (live)"
     }
 ]
