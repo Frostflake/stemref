@@ -1106,5 +1106,19 @@
         },
         "source": "Rhythm Game",
         "title": "E-Pro"
+    },
+    {
+        "artist": "Beck",
+        "bpm": 84.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Gamma Ray"
     }
 ]
