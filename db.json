@@ -4603,5 +4603,19 @@
         },
         "source": "Unknown",
         "title": "Layla"
+    },
+    {
+        "artist": "DevilDriver",
+        "bpm": 87.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Clouds Over California"
     }
 ]
