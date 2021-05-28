@@ -2011,5 +2011,19 @@
         },
         "source": "Download",
         "title": "You'll Get What's Coming (feat. Mark Salomon)"
+    },
+    {
+        "artist": "Blur",
+        "bpm": 112.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "There's No Other Way"
     }
 ]
