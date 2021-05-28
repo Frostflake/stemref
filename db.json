@@ -2080,5 +2080,19 @@
         },
         "source": "Masters",
         "title": "Is This Love"
+    },
+    {
+        "artist": "Bob Marley",
+        "bpm": 126.84,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Masters",
+        "title": "Lively Up Yourself"
     }
 ]
