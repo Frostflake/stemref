@@ -5193,5 +5193,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hungry Like A Wolf"
+    },
+    {
+        "artist": "Duran Duran",
+        "bpm": 140.22,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Rio"
     }
 ]
