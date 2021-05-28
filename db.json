@@ -1370,5 +1370,19 @@
         },
         "source": "Rhythm Game",
         "title": "Lonely is the Night"
+    },
+    {
+        "artist": "Billy Squier",
+        "bpm": 123.3,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "When She Comes to Me"
     }
 ]
