@@ -150,5 +150,18 @@
         },
         "source": "Remix Contest",
         "title": "Call My Name"
+    },
+    {
+        "artist": "Black Sun Empire & Noisia",
+        "bpm": 87.0,
+        "content": [
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Remix Contest",
+        "title": "Hideous"
     }
 ]
