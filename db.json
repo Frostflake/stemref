@@ -2289,7 +2289,7 @@
             "primary": "9A"
         },
         "source": "Rhythm Game",
-        "title": "Turn the Page (Live)"
+        "title": "Turn the Page (live)"
     },
     {
         "artist": "Bon Iver",
@@ -2420,5 +2420,19 @@
         },
         "source": "Direct From Artist",
         "title": "Wash"
+    },
+    {
+        "artist": "Bon Jovi",
+        "bpm": 157.64,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Blaze of Glory"
     }
 ]
