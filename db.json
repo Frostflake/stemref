@@ -3409,5 +3409,18 @@
         },
         "source": "Download",
         "title": "A Breath Away (feat. Kelela)"
+    },
+    {
+        "artist": "Clams Casino",
+        "bpm": 105.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Download",
+        "title": "All Nite (feat. Vince Staples)"
     }
 ]
