@@ -790,5 +790,19 @@
         },
         "source": "Direct From Artist",
         "title": "9V"
+    },
+    {
+        "artist": "Alice in Chains",
+        "bpm": 105.25,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Rhythm Game",
+        "title": "Man in the Box"
     }
 ]
