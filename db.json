@@ -317,5 +317,19 @@
         },
         "source": "Rhythm Game",
         "title": "Here Without You"
+    },
+    {
+        "artist": "38 Special",
+        "bpm": 126.5,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Hold On Loosely"
     }
 ]
