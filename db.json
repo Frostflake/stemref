@@ -1578,5 +1578,19 @@
         },
         "source": "Rhythm Game",
         "title": "All the Small Things"
+    },
+    {
+        "artist": "Blink-182",
+        "bpm": 79.15,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "Rhythm Game",
+        "title": "Always"
     }
 ]
