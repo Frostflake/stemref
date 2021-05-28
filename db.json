@@ -1244,5 +1244,19 @@
         },
         "source": "Rhythm Game",
         "title": "I Go to Extremes"
+    },
+    {
+        "artist": "Billy Joel",
+        "bpm": 106.0,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Miami 2017"
     }
 ]
