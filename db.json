@@ -163,5 +163,19 @@
         },
         "source": "Remix Contest",
         "title": "Hideous"
+    },
+    {
+        "artist": "Awolnation",
+        "bpm": 119.0,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Remix Contest",
+        "title": "Sail"
     }
 ]
