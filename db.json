@@ -3759,5 +3759,19 @@
         },
         "source": "Unknown",
         "title": "Bad Kids (ft. Titus)"
+    },
+    {
+        "artist": "Coolio",
+        "bpm": 81.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Download",
+        "title": "Gangsta's Paradise"
     }
 ]
