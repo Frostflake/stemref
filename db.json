@@ -844,5 +844,19 @@
         },
         "source": "Rhythm Game",
         "title": "Airplanes (feat. Haylee Williams)"
+    },
+    {
+        "artist": "B.B. King",
+        "bpm": 89.45,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "The Thrill is Gone"
     }
 ]
