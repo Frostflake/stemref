@@ -2952,5 +2952,19 @@
         },
         "source": "Rhythm Game",
         "title": "Who Was in My Room Last Night"
+    },
+    {
+        "artist": "Caesars",
+        "bpm": 134.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Rhythm Game",
+        "title": "Jerk It Out"
     }
 ]
