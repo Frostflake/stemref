@@ -1931,5 +1931,18 @@
         },
         "source": "Download",
         "title": "Shoot Em Up"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 106.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Remix Contest",
+        "title": "So So Bad"
     }
 ]
