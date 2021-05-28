@@ -3636,5 +3636,18 @@
         },
         "source": "Rhythm Game",
         "title": "Fix You"
+    },
+    {
+        "artist": "Coldplay",
+        "bpm": 126.5,
+        "content": [
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "God Put A Smile Upon Your Face"
     }
 ]
