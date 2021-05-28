@@ -4451,5 +4451,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hush"
+    },
+    {
+        "artist": "Deep Purple",
+        "bpm": 129.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Space Truckin'"
     }
 ]
