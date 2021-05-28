@@ -4728,5 +4728,20 @@
         },
         "source": "Rhythm Game",
         "title": "Sultans of Swing"
+    },
+    {
+        "artist": "Disturbed",
+        "bpm": 90.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A",
+            "secondary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "Down With the Sickness"
     }
 ]
