@@ -4827,5 +4827,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Game"
+    },
+    {
+        "artist": "Disturbed",
+        "bpm": 85.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Rhythm Game",
+        "title": "The Vengeful One"
     }
 ]
