@@ -3315,5 +3315,19 @@
         },
         "source": "Rhythm Game",
         "title": "Are You Dead Yet"
+    },
+    {
+        "artist": "Christina Aguilera",
+        "bpm": 88.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "4B"
+        },
+        "source": "Unknown",
+        "title": "Genie In A Bottle"
     }
 ]
