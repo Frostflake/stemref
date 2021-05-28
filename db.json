@@ -1647,5 +1647,19 @@
         },
         "source": "Rhythm Game",
         "title": "Helicopter"
+    },
+    {
+        "artist": "Blondie",
+        "bpm": 136.75,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Atomic"
     }
 ]
