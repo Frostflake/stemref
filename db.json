@@ -3260,5 +3260,18 @@
         },
         "source": "Rhythm Game",
         "title": "Tell Me Something Good"
+    },
+    {
+        "artist": "Charizma & Peanut Butter Wolf vs. Jaylib",
+        "bpm": 93.5,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "My World Premiere vs. The Red (Instrumental)"
     }
 ]
