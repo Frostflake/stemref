@@ -2122,5 +2122,19 @@
         },
         "source": "Rhythm Game",
         "title": "Bend Down Low"
+    },
+    {
+        "artist": "Bob Marley and the Wailers",
+        "bpm": 134.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Burnin' And Lootin'"
     }
 ]
