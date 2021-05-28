@@ -4909,5 +4909,18 @@
         },
         "source": "Direct From Artist",
         "title": "Soul Searching"
+    },
+    {
+        "artist": "DJ Pon-3 feat. Ervin Mitchell",
+        "bpm": 150.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Remix Contest",
+        "title": "Soul Cry"
     }
 ]
