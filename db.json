@@ -622,5 +622,20 @@
         },
         "source": "Remix Contest",
         "title": "Lucky Love"
+    },
+    {
+        "artist": "Ace of Base",
+        "bpm": 97.0,
+        "content": [
+            "multis",
+            "vox",
+            "inst"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Unknown",
+        "title": "The Sign"
     }
 ]
