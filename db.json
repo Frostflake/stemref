@@ -220,5 +220,19 @@
         },
         "source": "Rhythm Game",
         "title": "Amber"
+    },
+    {
+        "artist": "311",
+        "bpm": 84.0,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "Beautiful Disaster"
     }
 ]
