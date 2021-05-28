@@ -3828,5 +3828,19 @@
         },
         "source": "Rhythm Game",
         "title": "God Put A Smile Upon Your Face"
+    },
+    {
+        "artist": "Coldplay",
+        "bpm": 145.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "In My Place"
     }
 ]
