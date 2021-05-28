@@ -1744,5 +1744,19 @@
         },
         "source": "Rhythm Game",
         "title": "Burnin' for You"
+    },
+    {
+        "artist": "Blue \u00d6yster Cult",
+        "bpm": 142.85,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "(Don't Fear) The Reaper"
     }
 ]
