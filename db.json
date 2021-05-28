@@ -2290,5 +2290,18 @@
         },
         "source": "Rhythm Game",
         "title": "Turn the Page (Live)"
+    },
+    {
+        "artist": "Bon Iver",
+        "bpm": 128.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 2,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Direct From Artist",
+        "title": "Beth Rest"
     }
 ]
