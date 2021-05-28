@@ -4505,5 +4505,19 @@
         },
         "source": "Rhythm Game",
         "title": "Bringin' On A Heartbreak"
+    },
+    {
+        "artist": "Def Leppard",
+        "bpm": 113.85,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Foolin'"
     }
 ]
