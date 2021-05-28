@@ -2066,5 +2066,19 @@
         },
         "source": "Unknown",
         "title": "Buffalo Soldier"
+    },
+    {
+        "artist": "Bob Marley",
+        "bpm": 122.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 3,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Masters",
+        "title": "Is This Love"
     }
 ]
