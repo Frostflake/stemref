@@ -371,5 +371,19 @@
         },
         "source": "Direct From Artist",
         "title": "Drive (feat. D.Notive)"
+    },
+    {
+        "artist": "A Perfect Circle",
+        "bpm": 82.4,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Judith"
     }
 ]
