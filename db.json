@@ -4122,5 +4122,18 @@
         },
         "source": "Remix Contest",
         "title": "This Is a Test"
+    },
+    {
+        "artist": "Dan The Automator",
+        "bpm": 112.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Unknown",
+        "title": "Rapper's Delight"
     }
 ]
