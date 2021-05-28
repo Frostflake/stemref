@@ -427,5 +427,19 @@
         },
         "source": "Rhythm Game",
         "title": "Back in Black (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 134.2,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Dirty Deeds Done Dirt Cheap (live)"
     }
 ]
