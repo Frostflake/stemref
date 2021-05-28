@@ -1147,5 +1147,18 @@
         },
         "source": "Rhythm Game",
         "title": "Prequel to the Sequel"
+    },
+    {
+        "artist": "Big Boi feat. Cutty vs. Mark Morrison",
+        "bpm": 99.0,
+        "content": [
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Shutterbugg vs. Return of the Mack"
     }
 ]
