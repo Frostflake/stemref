@@ -1731,5 +1731,18 @@
         },
         "source": "Rhythm Game",
         "title": "Spinning Wheel"
+    },
+    {
+        "artist": "Blue \u00d6yster Cult",
+        "bpm": 134.5,
+        "content": [
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Burnin' for You"
     }
 ]
