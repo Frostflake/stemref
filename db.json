@@ -3061,5 +3061,18 @@
         },
         "source": "Download",
         "title": "Down to Earth"
+    },
+    {
+        "artist": "Celldweller",
+        "bpm": 94.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Download",
+        "title": "Down to Earth (Celldweller Remix)"
     }
 ]
