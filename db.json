@@ -3842,5 +3842,19 @@
         },
         "source": "Rhythm Game",
         "title": "Bad Moon Rising"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 114.25,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Born On The Bayou"
     }
 ]
