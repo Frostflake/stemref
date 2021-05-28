@@ -2785,5 +2785,19 @@
         },
         "source": "Remix Contest",
         "title": "Grenade"
+    },
+    {
+        "artist": "Bruno Mars",
+        "bpm": 109.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7B"
+        },
+        "source": "Remix Contest",
+        "title": "Just The Way You Are"
     }
 ]
