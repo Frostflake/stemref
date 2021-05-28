@@ -4631,5 +4631,20 @@
         },
         "source": "Rhythm Game",
         "title": "Girl U Want"
+    },
+    {
+        "artist": "Devo",
+        "bpm": 156.25,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "9A",
+            "secondary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Through Being Cool"
     }
 ]
