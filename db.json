@@ -3856,5 +3856,19 @@
         },
         "source": "Rhythm Game",
         "title": "Born On The Bayou"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 126.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Commotion"
     }
 ]
