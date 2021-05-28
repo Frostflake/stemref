@@ -262,5 +262,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Kill"
+    },
+    {
+        "artist": "3 Doors Down",
+        "bpm": 148.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "When I'm Gone"
     }
 ]
