@@ -358,5 +358,18 @@
         },
         "source": "Direct From Artist",
         "title": "Momentum"
+    },
+    {
+        "artist": "Addictia",
+        "bpm": 140.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Direct From Artist",
+        "title": "Drive (feat. D.Notive)"
     }
 ]
