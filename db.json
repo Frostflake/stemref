@@ -858,5 +858,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Thrill is Gone"
+    },
+    {
+        "artist": "BAP",
+        "bpm": 132.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Verdamp Lang Her"
     }
 ]
