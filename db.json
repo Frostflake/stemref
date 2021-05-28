@@ -3513,5 +3513,18 @@
         },
         "source": "Download",
         "title": "Skull"
+    },
+    {
+        "artist": "Clams Casino",
+        "bpm": 100.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Download",
+        "title": "Thanks to You (feat. Sam Dew)"
     }
 ]
