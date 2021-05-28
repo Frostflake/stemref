@@ -2248,5 +2248,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hollywood Nights"
+    },
+    {
+        "artist": "Bob Seger & The Silver Bullet Band",
+        "bpm": 114.25,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "Her Strut"
     }
 ]
