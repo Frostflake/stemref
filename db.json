@@ -580,5 +580,19 @@
         },
         "source": "Rhythm Game",
         "title": "Jailbreak (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 92.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Let There Be Rock"
     }
 ]
