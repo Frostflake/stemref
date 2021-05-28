@@ -5179,5 +5179,19 @@
         },
         "source": "Rhythm Game",
         "title": "Girls On Film"
+    },
+    {
+        "artist": "Duran Duran",
+        "bpm": 127.43,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Hungry Like A Wolf"
     }
 ]
