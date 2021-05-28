@@ -4217,5 +4217,19 @@
         },
         "source": "Rhythm Game",
         "title": "Blue Jean"
+    },
+    {
+        "artist": "David Bowie",
+        "bpm": 94.75,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Rhythm Game",
+        "title": "Fame"
     }
 ]
