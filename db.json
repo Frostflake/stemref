@@ -4011,5 +4011,19 @@
         },
         "source": "Rhythm Game",
         "title": "Up Around the Bend"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 122.75,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Who'll Stop the Rain"
     }
 ]
