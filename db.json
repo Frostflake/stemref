@@ -3940,5 +3940,19 @@
         },
         "source": "Rhythm Game",
         "title": "Lookin' Out My Back Door"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 119.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Proud Mary"
     }
 ]
