@@ -3732,5 +3732,18 @@
         },
         "source": "Rhythm Game",
         "title": "Shine"
+    },
+    {
+        "artist": "Coloriot",
+        "bpm": 128.0,
+        "content": [
+            "other"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Direct From Artist",
+        "title": "Winged Thing"
     }
 ]
