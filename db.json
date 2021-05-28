@@ -1853,5 +1853,18 @@
         },
         "source": "Download",
         "title": "Enemy"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 90.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Remix Contest",
+        "title": "Give Me Everything You've Got"
     }
 ]
