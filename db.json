@@ -3801,5 +3801,19 @@
         },
         "source": "Rhythm Game",
         "title": "Every Teardrop is a Waterfall"
+    },
+    {
+        "artist": "Coldplay",
+        "bpm": 136.25,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "Fix You"
     }
 ]
