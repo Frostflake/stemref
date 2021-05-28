@@ -11,6 +11,14 @@ new_song["key"]["primary"] = input("Primary Key: ")
 new_song["bpm"] = float(input("BPM: "))
 new_song["energy"] = int(input("Energy: "))
 new_song["source"] = input("Source: ")
+
+# Handle shorthand
+if new_song["source"] == "rg":
+	new_song["source"] = "Rhythm Game"
+elif new_song["source"] == "rc":
+	new_song["source"] = "Remix Contest"
+
+
 print("inst, diy, vox, multis, stems, project, other\n")
 content = [x.strip() for x in input("Content: ").split(",")]
 new_song["content"] += content
