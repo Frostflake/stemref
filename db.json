@@ -1905,5 +1905,18 @@
         },
         "source": "Download",
         "title": "Ready Aim Fire"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 128.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Download",
+        "title": "Rockstar"
     }
 ]
