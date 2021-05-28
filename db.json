@@ -1866,5 +1866,18 @@
         },
         "source": "Remix Contest",
         "title": "Give Me Everything You've Got"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 84.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Remix Contest",
+        "title": "Metamorphosis"
     }
 ]
