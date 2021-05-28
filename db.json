@@ -4646,5 +4646,19 @@
         },
         "source": "Rhythm Game",
         "title": "Through Being Cool"
+    },
+    {
+        "artist": "Devo",
+        "bpm": 91.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Uncontrollable Urge"
     }
 ]
