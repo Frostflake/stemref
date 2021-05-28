@@ -1675,5 +1675,19 @@
         },
         "source": "Rhythm Game",
         "title": "Call Me"
+    },
+    {
+        "artist": "Blondie",
+        "bpm": 952.4,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "6A/5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Hanging on the Telephone"
     }
 ]
