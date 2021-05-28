@@ -1039,5 +1039,19 @@
         },
         "source": "Rhythm Game",
         "title": "Make Some Noise"
+    },
+    {
+        "artist": "Beastie Boys",
+        "bpm": 83.37,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Rhythm Game",
+        "title": "Sabotage"
     }
 ]
