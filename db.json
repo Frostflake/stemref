@@ -997,5 +997,19 @@
         },
         "source": "Rhythm Game",
         "title": "No Sleep Till Brooklyn"
+    },
+    {
+        "artist": "Beastie Boys",
+        "bpm": 108.88,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Gratitude"
     }
 ]
