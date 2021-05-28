@@ -1092,5 +1092,19 @@
         },
         "source": "Unknown",
         "title": "Feel Good Time"
+    },
+    {
+        "artist": "Beck",
+        "bpm": 95.75,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "E-Pro"
     }
 ]
