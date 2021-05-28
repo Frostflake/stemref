@@ -5030,5 +5030,19 @@
         },
         "source": "Rhythm Game",
         "title": "King George"
+    },
+    {
+        "artist": "Dr. Dre",
+        "bpm": 94.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 3,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Unknown",
+        "title": "Nuthin' But A G Thang"
     }
 ]
