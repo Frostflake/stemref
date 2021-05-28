@@ -276,5 +276,18 @@
         },
         "source": "Rhythm Game",
         "title": "When I'm Gone"
+    },
+    {
+        "artist": "3 Doors Down",
+        "bpm": 99.0,
+        "content": [
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "Kryptonite"
     }
 ]
