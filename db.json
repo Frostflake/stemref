@@ -1508,5 +1508,19 @@
         },
         "source": "Rhythm Game",
         "title": "Shockwave"
+    },
+    {
+        "artist": "Blaze",
+        "bpm": 140.0,
+        "content": [
+            "vox",
+            "inst"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Download",
+        "title": "The Betrayal"
     }
 ]
