@@ -1944,5 +1944,18 @@
         },
         "source": "Remix Contest",
         "title": "So So Bad"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 80.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Download",
+        "title": "The Devil"
     }
 ]
