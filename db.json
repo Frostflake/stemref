@@ -2108,5 +2108,19 @@
         },
         "source": "Masters",
         "title": "No Woman No Cry"
+    },
+    {
+        "artist": "Bob Marley and the Wailers",
+        "bpm": 116.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "Bend Down Low"
     }
 ]
