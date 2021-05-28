@@ -872,5 +872,19 @@
         },
         "source": "Rhythm Game",
         "title": "Verdamp Lang Her"
+    },
+    {
+        "artist": "B-52s",
+        "bpm": 112.15,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Rhythm Game",
+        "title": "Rock Lobster"
     }
 ]
