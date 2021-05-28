@@ -2743,5 +2743,19 @@
         },
         "source": "Remix Contest",
         "title": "Sellouts"
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "bpm": 145.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Remix Contest",
+        "title": "Born to Run"
     }
 ]
