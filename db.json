@@ -679,5 +679,19 @@
         },
         "source": "Rhythm Game",
         "title": "T.N.T. (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 115.25,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "The Jack (live)"
     }
 ]
