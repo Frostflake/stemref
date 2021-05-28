@@ -3193,5 +3193,18 @@
         },
         "source": "Download",
         "title": "Lost In Time"
+    },
+    {
+        "artist": "Celldweller",
+        "bpm": 80.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Download",
+        "title": "Lost In Time (KJ Sawka Remix)"
     }
 ]
