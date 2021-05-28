@@ -777,5 +777,18 @@
         },
         "source": "Unknown",
         "title": "Granite"
+    },
+    {
+        "artist": "The Queenstons",
+        "bpm": 100.0,
+        "content": [
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Direct From Artist",
+        "title": "9V"
     }
 ]
