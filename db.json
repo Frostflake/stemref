@@ -4714,5 +4714,19 @@
         },
         "source": "Rhythm Game",
         "title": "Money for Nothing"
+    },
+    {
+        "artist": "Dire Straits",
+        "bpm": 149.38,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Sultans of Swing"
     }
 ]
