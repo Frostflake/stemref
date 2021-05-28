@@ -665,5 +665,19 @@
         },
         "source": "Rhythm Game",
         "title": "Shoot to Thrill (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 133.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "T.N.T. (live)"
     }
 ]
