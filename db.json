@@ -2025,5 +2025,19 @@
         },
         "source": "Rhythm Game",
         "title": "There's No Other Way"
+    },
+    {
+        "artist": "Bob Dylan",
+        "bpm": 129.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "All Along the Watchtower"
     }
 ]
