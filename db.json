@@ -1826,5 +1826,19 @@
         },
         "source": "Download",
         "title": "Demon"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 140.0,
+        "content": [
+            "inst",
+            "diy"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Download",
+        "title": "Down In Flames"
     }
 ]
