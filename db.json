@@ -2925,5 +2925,19 @@
         },
         "source": "Rhythm Game",
         "title": "Comedown"
+    },
+    {
+        "artist": "Bush",
+        "bpm": 112.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Machinehead"
     }
 ]
