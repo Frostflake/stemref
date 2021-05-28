@@ -4575,5 +4575,19 @@
         },
         "source": "Rhythm Game",
         "title": "Personal Jesus"
+    },
+    {
+        "artist": "Depeche Mode",
+        "bpm": 113.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Policy Of Truth"
     }
 ]
