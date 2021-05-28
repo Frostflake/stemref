@@ -3787,5 +3787,19 @@
         },
         "source": "Rhythm Game",
         "title": "Clocks"
+    },
+    {
+        "artist": "Coldplay",
+        "bpm": 118.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Every Teardrop is a Waterfall"
     }
 ]
