@@ -608,5 +608,19 @@
         },
         "source": "Rhythm Game",
         "title": "Let There Be Rock (live)"
+    },
+    {
+        "artist": "Ace of Base",
+        "bpm": 110.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Remix Contest",
+        "title": "Lucky Love"
     }
 ]
