@@ -928,5 +928,19 @@
         },
         "source": "Rhythm Game",
         "title": "Sorrow"
+    },
+    {
+        "artist": "Barenaked Ladies",
+        "bpm": 112.7,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "One Week"
     }
 ]
