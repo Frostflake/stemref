@@ -2368,5 +2368,18 @@
         },
         "source": "Direct From Artist",
         "title": "Michicant"
+    },
+    {
+        "artist": "Bon Iver",
+        "bpm": 120.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 2,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Direct From Artist",
+        "title": "Minnesota, WI"
     }
 ]
