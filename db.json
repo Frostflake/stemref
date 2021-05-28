@@ -413,5 +413,19 @@
         },
         "source": "Remix Contest",
         "title": "Mad At You"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 96.75,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Back in Black (live)"
     }
 ]
