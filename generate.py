@@ -78,7 +78,11 @@ background-color: #F1F1F1;
 		file.write('<td class="td0" align="center" width="90">' + database[song]["title"] + '<br></td>')
 		file.write('<td class="td0" align="center" width="90">' + database[song]["artist"] + '<br></td>')
 		file.write('<td class="td0" align="center" width="30">' + database[song]["key"]["primary"] + '<br></td>')
-		file.write('<td class="td0" align="center" width="30">' + str(database[song]["bpm"]) + '<br></td>')
+		file.write('<td class="td0" align="center" width="30">')
+		file.write(str(database[song]["bpm"]))
+		if len(str(database[song]["bpm"]).split(".")[1]) == 1:
+			file.write("0")
+		file.write('<br></td>')
 		file.write('<td class="td0" align="center" width="30">' + str(database[song]["energy"]) + '<br></td>')
 		file.write('<td class="td0" align="center" width="100">')
 		if 'inst' in database[song]["content"]:
