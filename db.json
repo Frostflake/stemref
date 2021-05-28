@@ -1892,5 +1892,18 @@
         },
         "source": "Download",
         "title": "Not Over Til We Say So (feat. Emma Anzai of Sick Puppies)"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 102.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Download",
+        "title": "Ready Aim Fire"
     }
 ]
