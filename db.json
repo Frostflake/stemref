@@ -1133,5 +1133,19 @@
         },
         "source": "Rhythm Game",
         "title": "Steal My Kisses"
+    },
+    {
+        "artist": "Between the Buried and Me",
+        "bpm": 125.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Rhythm Game",
+        "title": "Prequel to the Sequel"
     }
 ]
