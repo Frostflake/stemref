@@ -566,5 +566,19 @@
         },
         "source": "Remix Contest",
         "title": "Happy Nation"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 131.85,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Jailbreak (live)"
     }
 ]
