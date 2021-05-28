@@ -83,7 +83,7 @@ background-color: #F1F1F1;
 			file.write('<img src="img/noinstrumental.png" alt="No Instrumental" title="The instrumental is not yet archived.">')
 		if 'vox' in song["content"]:
 			file.write('<img src="img/vox.png" alt="Vox" title="The studio vocals are archived!">')
-		elif 'diy_vox' in song["content"]:
+		elif 'diy' in song["content"]:
 			file.write('<img src="img/diy.png" alt="DIY Vox" title="DIY vocals are archived!">')
 		else:
 			file.write('<img src="img/novox.png" alt="No Vox" title="The vocals are not yet archived.">')

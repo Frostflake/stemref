@@ -1,17 +1,15 @@
 [
-	{
-		"artist":"Test Artist",
-		"title":"Test Title",
-		"key":{
-			"primary":"10A",
-			"secondary":"12B"
-			},
-		"bpm":154.01,
-		"energy":6,
-		"content":[
-			"diy_vox",
-			"inst"
-			],
-		"source":"RB"
-	}
+    {
+        "artist": "[ cell 7 ]",
+        "bpm": 126.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Remix Contest",
+        "title": "Red"
+    }
 ]
