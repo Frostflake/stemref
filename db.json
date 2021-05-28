@@ -5152,5 +5152,18 @@
         },
         "source": "Rhythm Game",
         "title": "I'm Shipping Up To Boston"
+    },
+    {
+        "artist": "Duffy",
+        "bpm": 84.5,
+        "content": [
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "6B"
+        },
+        "source": "Rhythm Game",
+        "title": "Warwick Avenue"
     }
 ]
