@@ -4342,5 +4342,19 @@
         },
         "source": "Rhythm Game",
         "title": "California \u00dcber Alles"
+    },
+    {
+        "artist": "Dead Kennedys",
+        "bpm": 96.69,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Holiday in Cambodia"
     }
 ]
