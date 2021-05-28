@@ -1799,5 +1799,19 @@
         },
         "source": "Download",
         "title": "Armageddon"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 98.0,
+        "content": [
+            "inst",
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Remix Contest",
+        "title": "Corner"
     }
 ]
