@@ -5110,5 +5110,19 @@
         },
         "source": "Rhythm Game",
         "title": "Through the Fire and Flames"
+    },
+    {
+        "artist": "Dream Theater",
+        "bpm": 90.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Constant Motion"
     }
 ]
