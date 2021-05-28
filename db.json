@@ -4231,5 +4231,19 @@
         },
         "source": "Rhythm Game",
         "title": "Fame"
+    },
+    {
+        "artist": "David Bowie",
+        "bpm": 113.94,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "3A"
+        },
+        "source": "Rhythm Game",
+        "title": "Let's Dance"
     }
 ]
