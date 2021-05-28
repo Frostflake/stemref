@@ -1786,5 +1786,18 @@
         },
         "source": "Remix Contest",
         "title": "Anti You"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 79.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Download",
+        "title": "Armageddon"
     }
 ]
