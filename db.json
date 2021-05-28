@@ -3273,5 +3273,19 @@
         },
         "source": "Rhythm Game",
         "title": "My World Premiere vs. The Red (Instrumental)"
+    },
+    {
+        "artist": "Cheap Trick",
+        "bpm": 88.11,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Hello There"
     }
 ]
