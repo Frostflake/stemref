@@ -2394,5 +2394,18 @@
         },
         "source": "Direct From Artist",
         "title": "Perth"
+    },
+    {
+        "artist": "Bon Iver",
+        "bpm": 91.39,
+        "content": [
+            "multi"
+        ],
+        "energy": 3,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Direct From Artist",
+        "title": "Towers"
     }
 ]
