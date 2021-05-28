@@ -2574,5 +2574,19 @@
         },
         "source": "Rhythm Game",
         "title": "Total Eclipse of the Heart"
+    },
+    {
+        "artist": "Boston",
+        "bpm": 134.25,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7B"
+        },
+        "source": "Rhythm Game",
+        "title": "Fore Play Long Time"
     }
 ]
