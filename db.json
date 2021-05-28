@@ -4383,5 +4383,19 @@
         },
         "source": "Unknown",
         "title": "Some Chords (Dillon Francis Remix)"
+    },
+    {
+        "artist": "Dealership",
+        "bpm": 141.15,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "Database Corrupted"
     }
 ]
