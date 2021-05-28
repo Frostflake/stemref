@@ -3954,5 +3954,19 @@
         },
         "source": "Rhythm Game",
         "title": "Proud Mary"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 135.25,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Run Through The Jungle"
     }
 ]
