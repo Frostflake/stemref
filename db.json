@@ -469,5 +469,19 @@
         },
         "source": "Rhythm Game",
         "title": "For Those About to Rock (We Salute You) (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 119.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Heatseeker (live)"
     }
 ]
