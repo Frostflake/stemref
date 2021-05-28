@@ -5016,5 +5016,19 @@
         },
         "source": "Rhythm Game",
         "title": "Listen To The Music"
+    },
+    {
+        "artist": "Dover",
+        "bpm": 105.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "King George"
     }
 ]
