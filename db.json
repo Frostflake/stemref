@@ -3020,5 +3020,19 @@
         },
         "source": "Download",
         "title": "Breakout feat. Scandroid"
+    },
+    {
+        "artist": "Celldweller",
+        "bpm": 132.0,
+        "content": [
+            "inst",
+            "diy"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Download",
+        "title": "Breakout feat. Scandroid (Scandroid Remix)"
     }
 ]
