@@ -4081,5 +4081,19 @@
         },
         "source": "Direct From Artist",
         "title": "Echo"
+    },
+    {
+        "artist": "CrusherP feat. Aiko Kikyuune",
+        "bpm": 140.0,
+        "content": [
+            "inst",
+            "vox"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Direct From Artist",
+        "title": "Bi\u2623hazard"
     }
 ]
