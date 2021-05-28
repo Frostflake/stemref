@@ -1356,5 +1356,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Stroke"
+    },
+    {
+        "artist": "Billy Squier",
+        "bpm": 109.42,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Lonely is the Night"
     }
 ]
