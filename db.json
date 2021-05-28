@@ -735,5 +735,19 @@
         },
         "source": "Rhythm Game",
         "title": "Whole Lotta Rosie (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 137.75,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "You Shook Me All Night Long (live)"
     }
 ]
