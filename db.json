@@ -552,5 +552,19 @@
         },
         "source": "Remix Contest",
         "title": "Don't Turn Around"
+    },
+    {
+        "artist": "Ace of Base",
+        "bpm": 104.0,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Remix Contest",
+        "title": "Happy Nation"
     }
 ]
