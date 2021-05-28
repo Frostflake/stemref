@@ -4519,5 +4519,19 @@
         },
         "source": "Rhythm Game",
         "title": "Foolin'"
+    },
+    {
+        "artist": "Def Leppard",
+        "bpm": 123.44,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Photograph"
     }
 ]
