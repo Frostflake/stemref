@@ -4922,5 +4922,18 @@
         },
         "source": "Remix Contest",
         "title": "Soul Cry"
+    },
+    {
+        "artist": "DJ Pon-3 feat. Ervin Mitchell",
+        "bpm": 150.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Direct From Artist",
+        "title": "Soul Cry (Damp Hit Rough Edge Edit)"
     }
 ]
