@@ -3898,5 +3898,19 @@
         },
         "source": "Rhythm Game",
         "title": "Fortunate Son (Original Version)"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 141.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Green River"
     }
 ]
