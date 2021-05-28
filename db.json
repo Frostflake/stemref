@@ -5083,5 +5083,18 @@
         },
         "source": "Rhythm Game",
         "title": "Operation Ground & Pound"
+    },
+    {
+        "artist": "DragonForce",
+        "bpm": 100.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Revolution Deathsquad"
     }
 ]
