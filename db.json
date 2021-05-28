@@ -4561,5 +4561,19 @@
         },
         "source": "Rhythm Game",
         "title": "Never Let Me Down Again"
+    },
+    {
+        "artist": "Depeche Mode",
+        "bpm": 130.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Rhythm Game",
+        "title": "Personal Jesus"
     }
 ]
