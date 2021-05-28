@@ -2329,5 +2329,18 @@
         },
         "source": "Direct From Artist",
         "title": "Hinnom, TX"
+    },
+    {
+        "artist": "Bon Iver",
+        "bpm": 148.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 2,
+        "key": {
+            "primary": "3B"
+        },
+        "source": "Direct From Artist",
+        "title": "Holocene"
     }
 ]
