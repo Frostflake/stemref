@@ -109,5 +109,19 @@
         },
         "source": "Rhythm Game",
         "title": "Unholy Confessions"
+    },
+    {
+        "artist": "Avenged Sevenfold",
+        "bpm": 95.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Welcome to the Family"
     }
 ]
