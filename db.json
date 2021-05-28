@@ -4813,5 +4813,19 @@
         },
         "source": "Rhythm Game",
         "title": "Stricken"
+    },
+    {
+        "artist": "Disturbed",
+        "bpm": 132.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "The Game"
     }
 ]
