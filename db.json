@@ -1813,5 +1813,18 @@
         },
         "source": "Remix Contest",
         "title": "Corner"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 140.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Download",
+        "title": "Demon"
     }
 ]
