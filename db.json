@@ -4411,5 +4411,18 @@
         },
         "source": "Rhythm Game",
         "title": "Can't Let Go"
+    },
+    {
+        "artist": "Deep Purple",
+        "bpm": 131.66,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Rhythm Game",
+        "title": "Burn"
     }
 ]
