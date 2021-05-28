@@ -1438,5 +1438,19 @@
         },
         "source": "Rhythm Game",
         "title": "Into The Void"
+    },
+    {
+        "artist": "Black Sabbath",
+        "bpm": 103.7,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "NIB"
     }
 ]
