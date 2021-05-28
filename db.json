@@ -4204,5 +4204,18 @@
         },
         "source": "Rhythm Game",
         "title": "Ants Marching"
+    },
+    {
+        "artist": "David Bowie",
+        "bpm": 122.5,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Blue Jean"
     }
 ]
