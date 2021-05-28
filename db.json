@@ -4258,5 +4258,19 @@
         },
         "source": "Rhythm Game",
         "title": "Modern Love"
+    },
+    {
+        "artist": "David Bowie",
+        "bpm": 144.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Moonage Daydream"
     }
 ]
