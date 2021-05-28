@@ -2150,5 +2150,19 @@
         },
         "source": "Rhythm Game",
         "title": "Coming In From The Cold"
+    },
+    {
+        "artist": "Bob Marley and the Wailers",
+        "bpm": 103.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Could You Be Loved"
     }
 ]
