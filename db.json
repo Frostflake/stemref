@@ -333,7 +333,7 @@
         "title": "Hold On Loosely"
     },
     {
-        "artist": "\u897f\u5ddd\u8cb4\u6559",
+        "artist": "Takanori Nishikawa",
         "bpm": 120.0,
         "content": [
             "inst",
@@ -345,5 +345,18 @@
         },
         "source": "CD",
         "title": "Bright Burning Shout"
+    },
+    {
+        "artist": "Addictia",
+        "bpm": 128.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Direct From Artist",
+        "title": "Momentum"
     }
 ]
