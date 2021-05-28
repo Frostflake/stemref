@@ -4438,5 +4438,18 @@
         },
         "source": "Rhythm Game",
         "title": "Highway Star"
+    },
+    {
+        "artist": "Deep Purple",
+        "bpm": 107.75,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Hush"
     }
 ]
