@@ -804,5 +804,18 @@
         },
         "source": "Rhythm Game",
         "title": "Man in the Box"
+    },
+    {
+        "artist": "Alice in Chains",
+        "bpm": 116.8,
+        "content": [
+            "multis"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "3A"
+        },
+        "source": "Rhythm Game",
+        "title": "No Excuses"
     }
 ]
