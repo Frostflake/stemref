@@ -3968,5 +3968,19 @@
         },
         "source": "Rhythm Game",
         "title": "Run Through The Jungle"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 127.3,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Susie Q"
     }
 ]
