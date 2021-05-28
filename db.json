@@ -3815,5 +3815,18 @@
         },
         "source": "Rhythm Game",
         "title": "Accidentally in Love"
+    },
+    {
+        "artist": "Counting Crows",
+        "bpm": 79.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Angels of the Silences"
     }
 ]
