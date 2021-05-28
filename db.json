@@ -3801,5 +3801,19 @@
         },
         "source": "Rhythm Game",
         "title": "Shake"
+    },
+    {
+        "artist": "Counting Crows",
+        "bpm": 138.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Accidentally in Love"
     }
 ]
