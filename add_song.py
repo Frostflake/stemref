@@ -17,6 +17,8 @@ if new_song["source"] == "rg":
 	new_song["source"] = "Rhythm Game"
 elif new_song["source"] == "rc":
 	new_song["source"] = "Remix Contest"
+elif new_song["source"] == "d":
+	new_song["source"] = "Direct From Artist"
 
 
 print("inst, diy, vox, multis, stems, project, other\n")
