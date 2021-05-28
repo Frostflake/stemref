@@ -3246,5 +3246,19 @@
         },
         "source": "Download",
         "title": "Precious One"
+    },
+    {
+        "artist": "Chaka Khan",
+        "bpm": 150.8,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Rhythm Game",
+        "title": "Tell Me Something Good"
     }
 ]
