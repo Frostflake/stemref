@@ -3553,5 +3553,19 @@
         },
         "source": "Rhythm Game",
         "title": "Give It to Me"
+    },
+    {
+        "artist": "Coheed and Cambria",
+        "bpm": 157.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Rhythm Game",
+        "title": "Ten Speed (Of God's Blood & Burial)"
     }
 ]
