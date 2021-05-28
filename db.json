@@ -635,7 +635,7 @@
         "key": {
             "primary": "2B"
         },
-        "source": "Unknown",
+        "source": "Remix Contest",
         "title": "The Sign"
     },
     {
@@ -763,5 +763,19 @@
         },
         "source": "Remix Contest",
         "title": "Wonder"
+    },
+    {
+        "artist": "Pendulum",
+        "bpm": 87.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 9,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Unknown",
+        "title": "Granite"
     }
 ]
