@@ -4272,5 +4272,20 @@
         },
         "source": "Rhythm Game",
         "title": "Moonage Daydream"
+    },
+    {
+        "artist": "David Bowie",
+        "bpm": 134.34,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "9A",
+            "secondary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Space Oddity"
     }
 ]
