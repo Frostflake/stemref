@@ -1286,5 +1286,19 @@
         },
         "source": "Rhythm Game",
         "title": "Prelude / Angry Young Man"
+    },
+    {
+        "artist": "Billy Joel",
+        "bpm": 98.25,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Unknown",
+        "title": "Scenes from an Italian Restaurant"
     }
 ]
