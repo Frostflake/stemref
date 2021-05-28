@@ -5002,5 +5002,19 @@
         },
         "source": "Rhythm Game",
         "title": "China Grove"
+    },
+    {
+        "artist": "Doobie Brothers",
+        "bpm": 106.3,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Listen To The Music"
     }
 ]
