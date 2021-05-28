@@ -2883,5 +2883,19 @@
         },
         "source": "Rhythm Game",
         "title": "Scream Aim Fire"
+    },
+    {
+        "artist": "BulletProof Messenger",
+        "bpm": 92.15,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Direct From Artist",
+        "title": "Control"
     }
 ]
