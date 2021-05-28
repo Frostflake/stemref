@@ -3074,5 +3074,19 @@
         },
         "source": "Download",
         "title": "Down to Earth (Celldweller Remix)"
+    },
+    {
+        "artist": "Celldweller",
+        "bpm": 87.5,
+        "content": [
+            "inst",
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Remix Contest",
+        "title": "End of an Empire"
     }
 ]
