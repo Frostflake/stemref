@@ -3461,5 +3461,18 @@
         },
         "source": "Download",
         "title": "Blast"
+    },
+    {
+        "artist": "Clams Casino",
+        "bpm": 100.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Download",
+        "title": "Ghost in a Kiss (feat. Samuel T. Herring)"
     }
 ]
