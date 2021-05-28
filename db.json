@@ -483,5 +483,19 @@
         },
         "source": "Rhythm Game",
         "title": "Heatseeker (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 127.3,
+        "content": [
+            "multis",
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Hell Ain't a Bad Place to Be (live)"
     }
 ]
