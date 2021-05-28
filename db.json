@@ -2827,5 +2827,19 @@
         },
         "source": "Remix Contest",
         "title": "Summer of 69"
+    },
+    {
+        "artist": "Buckcherry",
+        "bpm": 98.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Remix Contest",
+        "title": "Crazy Bitch"
     }
 ]
