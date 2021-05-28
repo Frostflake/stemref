@@ -5138,5 +5138,19 @@
         },
         "source": "Rhythm Game",
         "title": "Panic Attack"
+    },
+    {
+        "artist": "Dropkick Murphys",
+        "bpm": 129.75,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "I'm Shipping Up To Boston"
     }
 ]
