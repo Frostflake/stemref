@@ -3870,5 +3870,18 @@
         },
         "source": "Rhythm Game",
         "title": "The Scientist"
+    },
+    {
+        "artist": "Coldplay",
+        "bpm": 152.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Violet Hill"
     }
 ]
