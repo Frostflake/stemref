@@ -1494,5 +1494,19 @@
         },
         "source": "Rhythm Game",
         "title": "War Pigs"
+    },
+    {
+        "artist": "Black Tide",
+        "bpm": 92.5,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Rhythm Game",
+        "title": "Shockwave"
     }
 ]
