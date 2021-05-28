@@ -2966,5 +2966,18 @@
         },
         "source": "Rhythm Game",
         "title": "Jerk It Out"
+    },
+    {
+        "artist": "Captain Fluffatun",
+        "bpm": 80.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Direct From Artist",
+        "title": "Overcome [Cave Story Remix]"
     }
 ]
