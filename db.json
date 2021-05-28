@@ -4701,5 +4701,18 @@
         },
         "source": "Rhythm Game",
         "title": "Holy Diver"
+    },
+    {
+        "artist": "Dire Straits",
+        "bpm": 134.2,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Rhythm Game",
+        "title": "Money for Nothing"
     }
 ]
