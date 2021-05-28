@@ -4053,5 +4053,19 @@
         },
         "source": "Rhythm Game",
         "title": "Nightmare"
+    },
+    {
+        "artist": "Crooked X",
+        "bpm": 129.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Rock 'n' Roll Dream"
     }
 ]
