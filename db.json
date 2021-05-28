@@ -2560,5 +2560,19 @@
         },
         "source": "Rhythm Game",
         "title": "You Give Love a Bad Name"
+    },
+    {
+        "artist": "Bonnie Tyler",
+        "bpm": 128.25,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "4B"
+        },
+        "source": "Rhythm Game",
+        "title": "Total Eclipse of the Heart"
     }
 ]
