@@ -4688,5 +4688,18 @@
         },
         "source": "Rhythm Game",
         "title": "Feel the Pain"
+    },
+    {
+        "artist": "Dio",
+        "bpm": 90.75,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Holy Diver"
     }
 ]
