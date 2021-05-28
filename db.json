@@ -385,5 +385,19 @@
         },
         "source": "Rhythm Game",
         "title": "Judith"
+    },
+    {
+        "artist": "A Flock of Seagulls",
+        "bpm": 148.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "I Ran (So Far Away)"
     }
 ]
