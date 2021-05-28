@@ -4743,5 +4743,19 @@
         },
         "source": "Rhythm Game",
         "title": "Down With the Sickness"
+    },
+    {
+        "artist": "Disturbed",
+        "bpm": 127.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Indestructible"
     }
 ]
