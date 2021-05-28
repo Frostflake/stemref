@@ -4478,5 +4478,18 @@
         },
         "source": "Rhythm Game",
         "title": "Woman From Tokyo ('99 Remix)"
+    },
+    {
+        "artist": "Deepdelic & Bruno Quack",
+        "bpm": 128.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Remix Contest",
+        "title": "Electro, Party And Rock'N Roll"
     }
 ]
