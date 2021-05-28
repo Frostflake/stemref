@@ -4771,5 +4771,19 @@
         },
         "source": "Rhythm Game",
         "title": "Inside the Fire"
+    },
+    {
+        "artist": "Disturbed",
+        "bpm": 126.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "Meaning of Life"
     }
 ]
