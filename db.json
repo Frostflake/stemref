@@ -2869,5 +2869,19 @@
         },
         "source": "Unknown",
         "title": "For What It's Worth"
+    },
+    {
+        "artist": "Bullet for My Valentine",
+        "bpm": 101.5,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Scream Aim Fire"
     }
 ]
