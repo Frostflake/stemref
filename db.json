@@ -1685,7 +1685,7 @@
         ],
         "energy": 6,
         "key": {
-            "primary": "6A/5A"
+            "primary": "6A"
         },
         "source": "Rhythm Game",
         "title": "Hanging on the Telephone"
@@ -3088,5 +3088,18 @@
         },
         "source": "Remix Contest",
         "title": "End of an Empire"
+    },
+    {
+        "artist": "Celldweller",
+        "bpm": 126.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Download",
+        "title": "End of an Empire (Breathe Carolina Remix)"
     }
 ]
