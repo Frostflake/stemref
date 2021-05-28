@@ -2476,5 +2476,19 @@
         },
         "source": "Rhythm Game",
         "title": "It's My Life"
+    },
+    {
+        "artist": "Bon Jovi",
+        "bpm": 123.16,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Lay Your Hands On Me"
     }
 ]
