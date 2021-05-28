@@ -2771,5 +2771,19 @@
         },
         "source": "Remix Contest",
         "title": "The River"
+    },
+    {
+        "artist": "Bruno Mars",
+        "bpm": 109.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Remix Contest",
+        "title": "Grenade"
     }
 ]
