@@ -2262,5 +2262,19 @@
         },
         "source": "Rhythm Game",
         "title": "Her Strut"
+    },
+    {
+        "artist": "Bob Seger & the Silver Bullet Band",
+        "bpm": 124.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Rhythm Game",
+        "title": "Old Time Rock and Roll"
     }
 ]
