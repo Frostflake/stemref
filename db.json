@@ -3982,5 +3982,19 @@
         },
         "source": "Rhythm Game",
         "title": "Susie Q"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 83.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Rhythm Game",
+        "title": "Travelin' Band"
     }
 ]
