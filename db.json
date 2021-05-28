@@ -3220,5 +3220,18 @@
         },
         "source": "Download",
         "title": "Lost In Time (OCTiV Remix)"
+    },
+    {
+        "artist": "Celldweller",
+        "bpm": 145.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Download",
+        "title": "New Elysium"
     }
 ]
