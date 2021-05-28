@@ -956,5 +956,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hanukkah Blessings"
+    },
+    {
+        "artist": "BB Brunes",
+        "bpm": 131.0,
+        "content": [
+            "multis",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Dis-Moi"
     }
 ]
