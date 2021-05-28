@@ -2672,5 +2672,19 @@
         },
         "source": "Rhythm Game",
         "title": "Something About You"
+    },
+    {
+        "artist": "Boys Like Girls",
+        "bpm": 150.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Thunder"
     }
 ]
