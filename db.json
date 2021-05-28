@@ -2490,5 +2490,19 @@
         },
         "source": "Rhythm Game",
         "title": "Lay Your Hands On Me"
+    },
+    {
+        "artist": "Bon Jovi",
+        "bpm": 122.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Livin' on a Prayer"
     }
 ]
