@@ -2532,5 +2532,19 @@
         },
         "source": "Rhythm Game",
         "title": "We Weren't Born to Follow"
+    },
+    {
+        "artist": "Bon Jovi",
+        "bpm": 132.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Who Says You Can't Go Home"
     }
 ]
