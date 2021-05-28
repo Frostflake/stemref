@@ -1840,5 +1840,18 @@
         },
         "source": "Download",
         "title": "Down In Flames"
+    },
+    {
+        "artist": "Blue Stahli",
+        "bpm": 92.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "3A"
+        },
+        "source": "Download",
+        "title": "Enemy"
     }
 ]
