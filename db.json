@@ -2979,5 +2979,19 @@
         },
         "source": "Direct From Artist",
         "title": "Overcome [Cave Story Remix]"
+    },
+    {
+        "artist": "Carl Douglas",
+        "bpm": 101.3,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Kung Fu Fighting"
     }
 ]
