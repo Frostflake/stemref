@@ -1703,5 +1703,19 @@
         },
         "source": "Rhythm Game",
         "title": "One Way or Another"
+    },
+    {
+        "artist": "Blondie",
+        "bpm": 108.33,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Rapture"
     }
 ]
