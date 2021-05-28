@@ -1606,5 +1606,19 @@
         },
         "source": "Rhythm Game",
         "title": "Dammit"
+    },
+    {
+        "artist": "Blink-182",
+        "bpm": 95.62,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "First Date"
     }
 ]
