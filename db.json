@@ -4799,5 +4799,19 @@
         },
         "source": "Rhythm Game",
         "title": "Perfect Insanity"
+    },
+    {
+        "artist": "Disturbed",
+        "bpm": 86.95,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Stricken"
     }
 ]
