@@ -3760,5 +3760,18 @@
         },
         "source": "Rhythm Game",
         "title": "Welcome Home"
+    },
+    {
+        "artist": "Cold War Kids",
+        "bpm": 120.62,
+        "content": [
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Hang Me Up to Dry"
     }
 ]
