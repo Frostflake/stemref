@@ -3500,5 +3500,18 @@
         },
         "source": "Download",
         "title": "Level 1"
+    },
+    {
+        "artist": "Clams Casino",
+        "bpm": 90.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "6B"
+        },
+        "source": "Download",
+        "title": "Skull"
     }
 ]
