@@ -2053,5 +2053,18 @@
         },
         "source": "Rhythm Game",
         "title": "Tangled Up in Blue"
+    },
+    {
+        "artist": "Bob Marley",
+        "bpm": 124.5,
+        "content": [
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Unknown",
+        "title": "Buffalo Soldier"
     }
 ]
