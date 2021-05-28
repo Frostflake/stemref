@@ -3912,5 +3912,19 @@
         },
         "source": "Rhythm Game",
         "title": "Green River"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "bpm": 117.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Heard It Through The Grapevine"
     }
 ]
