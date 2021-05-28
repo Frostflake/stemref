@@ -4424,5 +4424,19 @@
         },
         "source": "Rhythm Game",
         "title": "Burn"
+    },
+    {
+        "artist": "Deep Purple",
+        "bpm": 113.46,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Highway Star"
     }
 ]
