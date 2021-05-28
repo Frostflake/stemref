@@ -4301,5 +4301,18 @@
         },
         "source": "Rhythm Game",
         "title": "Suffragette City"
+    },
+    {
+        "artist": "David Bowie",
+        "bpm": 111.34,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Young Americans"
     }
 ]
