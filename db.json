@@ -3745,5 +3745,19 @@
         },
         "source": "Direct From Artist",
         "title": "Winged Thing"
+    },
+    {
+        "artist": "Convex",
+        "bpm": 145.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Unknown",
+        "title": "Bad Kids (ft. Titus)"
     }
 ]
