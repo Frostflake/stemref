@@ -2729,5 +2729,19 @@
         },
         "source": "Remix Contest",
         "title": "Hit and Run"
+    },
+    {
+        "artist": "Breathe Carolina feat. Danny Worsnop",
+        "bpm": 80.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Remix Contest",
+        "title": "Sellouts"
     }
 ]
