@@ -1053,5 +1053,18 @@
         },
         "source": "Rhythm Game",
         "title": "Sabotage"
+    },
+    {
+        "artist": "Beastie Boys vs. Lenny Kravitz",
+        "bpm": 101.0,
+        "content": [
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Body Movin' vs. Rock and Roll Is Dead"
     }
 ]
