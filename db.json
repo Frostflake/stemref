@@ -4025,5 +4025,19 @@
         },
         "source": "Rhythm Game",
         "title": "Who'll Stop the Rain"
+    },
+    {
+        "artist": "Crooked X",
+        "bpm": 127.3,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Gone"
     }
 ]
