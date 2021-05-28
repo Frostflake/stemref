@@ -3383,5 +3383,18 @@
         },
         "source": "Rhythm Game",
         "title": "Tubthumping"
+    },
+    {
+        "artist": "Clams Casino",
+        "bpm": 134.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 3,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Download",
+        "title": "32 Levels (feat. Lil B & Joe Newman)"
     }
 ]
