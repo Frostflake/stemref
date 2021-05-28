@@ -4589,5 +4589,19 @@
         },
         "source": "Rhythm Game",
         "title": "Policy Of Truth"
+    },
+    {
+        "artist": "Derek and the Dominos",
+        "bpm": 114.94,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Unknown",
+        "title": "Layla"
     }
 ]
