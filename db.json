@@ -4617,5 +4617,19 @@
         },
         "source": "Rhythm Game",
         "title": "Clouds Over California"
+    },
+    {
+        "artist": "Devo",
+        "bpm": 86.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Girl U Want"
     }
 ]
