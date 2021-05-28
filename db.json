@@ -2939,5 +2939,18 @@
         },
         "source": "Rhythm Game",
         "title": "Machinehead"
+    },
+    {
+        "artist": "Butthole Surfers",
+        "bpm": 91.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Who Was in My Room Last Night"
     }
 ]
