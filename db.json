@@ -1536,5 +1536,19 @@
         },
         "source": "Rhythm Game",
         "title": "No Rain"
+    },
+    {
+        "artist": "Blink 182",
+        "bpm": 96.5,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "The Rock Show"
     }
 ]
