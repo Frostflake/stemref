@@ -2813,5 +2813,19 @@
         },
         "source": "Remix Contest",
         "title": "Marry You"
+    },
+    {
+        "artist": "Bryan Adams",
+        "bpm": 138.75,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Remix Contest",
+        "title": "Summer of 69"
     }
 ]
