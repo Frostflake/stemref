@@ -441,5 +441,19 @@
         },
         "source": "Rhythm Game",
         "title": "Dirty Deeds Done Dirt Cheap (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 104.45,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Fire Your Guns (live)"
     }
 ]
