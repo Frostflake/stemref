@@ -1272,5 +1272,19 @@
         },
         "source": "Unknown",
         "title": "My Life"
+    },
+    {
+        "artist": "Billy Joel",
+        "bpm": 142.5,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "Prelude / Angry Young Man"
     }
 ]
