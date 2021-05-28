@@ -2504,5 +2504,19 @@
         },
         "source": "Rhythm Game",
         "title": "Livin' on a Prayer"
+    },
+    {
+        "artist": "Bon Jovi",
+        "bpm": 145.5,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Wanted Dead or Alive"
     }
 ]
