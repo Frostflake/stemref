@@ -95,5 +95,19 @@
         },
         "source": "Rhythm Game",
         "title": "So Far Away"
+    },
+    {
+        "artist": "Avenged Sevenfold",
+        "bpm": 130.0,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Unholy Confessions"
     }
 ]
