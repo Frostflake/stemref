@@ -2897,5 +2897,19 @@
         },
         "source": "Direct From Artist",
         "title": "Control"
+    },
+    {
+        "artist": "BulletProof Messenger",
+        "bpm": 104.15,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Direct From Artist",
+        "title": "Lose It All"
     }
 ]
