@@ -1,9 +1,9 @@
-{
+[
 	{
 		"artist":"Test Artist",
 		"title":"Test Title",
 		"key":{
-			"primary":"10A"
+			"primary":"10A",
 			"secondary":"12B"
 			},
 		"bpm":154.01,
@@ -11,7 +11,7 @@
 		"content":[
 			"diy_vox",
 			"inst"
-			]
+			],
 		"source":"RB"
 	}
-}
+]
