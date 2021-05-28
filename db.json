@@ -4855,5 +4855,18 @@
         },
         "source": "Rhythm Game",
         "title": "Voices"
+    },
+    {
+        "artist": "DJ Kurokit",
+        "bpm": 135.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Direct From Artist",
+        "title": "Galaxies"
     }
 ]
