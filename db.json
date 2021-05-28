@@ -3773,5 +3773,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hang Me Up to Dry"
+    },
+    {
+        "artist": "Coldplay",
+        "bpm": 131.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "3A"
+        },
+        "source": "Rhythm Game",
+        "title": "Clocks"
     }
 ]
