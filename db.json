@@ -3355,5 +3355,19 @@
         },
         "source": "Remix Contest",
         "title": "Lunatic"
+    },
+    {
+        "artist": "Chromeo",
+        "bpm": 124.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Unknown",
+        "title": "Tenderoni"
     }
 ]
