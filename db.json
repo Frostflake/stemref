@@ -721,5 +721,19 @@
         },
         "source": "Rhythm Game",
         "title": "Thunderstruck (live)"
+    },
+    {
+        "artist": "AC/DC",
+        "bpm": 119.5,
+        "content": [
+            "vox",
+            "multis"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Whole Lotta Rosie (live)"
     }
 ]
