@@ -3883,5 +3883,19 @@
         },
         "source": "Rhythm Game",
         "title": "Violet Hill"
+    },
+    {
+        "artist": "Coldplay",
+        "bpm": 86.75,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "Rhythm Game",
+        "title": "Yellow"
     }
 ]
