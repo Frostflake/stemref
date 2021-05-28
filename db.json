@@ -2602,5 +2602,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hitch A Ride"
+    },
+    {
+        "artist": "Boston",
+        "bpm": 110.62,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "More Than A Feeling"
     }
 ]
