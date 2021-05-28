@@ -4935,5 +4935,18 @@
         },
         "source": "Direct From Artist",
         "title": "Soul Cry (Damp Hit Rough Edge Edit)"
+    },
+    {
+        "artist": "DJ Pon-3 feat. Ervin Mitchell",
+        "bpm": 80.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Direct From Artist",
+        "title": "Soul Cry (Lunanox Remix)"
     }
 ]
