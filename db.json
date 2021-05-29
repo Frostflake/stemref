@@ -7908,5 +7908,19 @@
         },
         "source": "Rhythm Game",
         "title": "Shacklers Revenge"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 98.24,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Sorry"
     }
 ]
