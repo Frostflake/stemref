@@ -6819,5 +6819,18 @@
         },
         "source": "Direct From Artist",
         "title": "Rainbow Factory"
+    },
+    {
+        "artist": "Glaze & MicTheMicrophone",
+        "bpm": 98.5,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Direct From Artist",
+        "title": "Nightmare Night"
     }
 ]
