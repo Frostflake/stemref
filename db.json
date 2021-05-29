@@ -6354,5 +6354,18 @@
         },
         "source": "Rhythm Game",
         "title": "Urgent"
+    },
+    {
+        "artist": "Foster The People",
+        "bpm": 128.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Remix Contest",
+        "title": "Pumped Up Kicks"
     }
 ]
