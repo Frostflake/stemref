@@ -7445,5 +7445,19 @@
         },
         "source": "Rhythm Game",
         "title": "Horseshoes and Handgrenades"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 138.38,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4B"
+        },
+        "source": "Rhythm Game",
+        "title": "In the End"
     }
 ]
