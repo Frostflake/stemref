@@ -6887,5 +6887,19 @@
         },
         "source": "Rhythm Game",
         "title": "Girls & Boys"
+    },
+    {
+        "artist": "Gorillaz",
+        "bpm": 84.01,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Rhythm Game",
+        "title": "Clint Eastwood"
     }
 ]
