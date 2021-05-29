@@ -7431,5 +7431,19 @@
         },
         "source": "Rhythm Game",
         "title": "Homecoming"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 143.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Horseshoes and Handgrenades"
     }
 ]
