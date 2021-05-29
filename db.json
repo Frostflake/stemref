@@ -7823,5 +7823,19 @@
         },
         "source": "Rhythm Game",
         "title": "I.R.S"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 146.46,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "If The World"
     }
 ]
