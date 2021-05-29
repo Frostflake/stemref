@@ -7669,5 +7669,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Static Age"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 105.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Wake Me Up When September Ends"
     }
 ]
