@@ -6873,5 +6873,19 @@
         },
         "source": "Rhythm Game",
         "title": "Name"
+    },
+    {
+        "artist": "Good Charlotte",
+        "bpm": 135.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "Girls & Boys"
     }
 ]
