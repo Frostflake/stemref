@@ -7263,5 +7263,19 @@
         },
         "source": "Rhythm Game",
         "title": "Chump"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 85.62,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "6B"
+        },
+        "source": "Rhythm Game",
+        "title": "Coming Clean"
     }
 ]
