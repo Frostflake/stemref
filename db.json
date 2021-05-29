@@ -8158,5 +8158,20 @@
         },
         "source": "Rhythm Game",
         "title": "Heart of Rock & Roll"
+    },
+    {
+        "artist": "Huey Lewis and the News",
+        "bpm": 110.46,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A",
+            "secondary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "New Drug"
     }
 ]
