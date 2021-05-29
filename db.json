@@ -6777,5 +6777,19 @@
         },
         "source": "Direct From Artist",
         "title": "Heartmender"
+    },
+    {
+        "artist": "Glaze",
+        "bpm": 81.5,
+        "content": [
+            "inst",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Direct From Artist",
+        "title": "Lost On The Moon (feat. Rina Chan)"
     }
 ]
