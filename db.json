@@ -7221,5 +7221,19 @@
         },
         "source": "Rhythm Game",
         "title": "Brain Stew; Jaded"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 121.8,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Rhythm Game",
+        "title": "Burnout"
     }
 ]
