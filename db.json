@@ -5566,5 +5566,18 @@
         },
         "source": "Remix Contest",
         "title": "Beyond The Electric Fence"
+    },
+    {
+        "artist": "ExoBassTix",
+        "bpm": 85.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Remix Contest",
+        "title": "Don't Let Me Go"
     }
 ]
