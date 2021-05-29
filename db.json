@@ -7711,5 +7711,19 @@
         },
         "source": "Rhythm Game",
         "title": "Welcome to Paradise"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 120.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Whatsername"
     }
 ]
