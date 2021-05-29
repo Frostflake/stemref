@@ -6737,5 +6737,19 @@
         },
         "source": "Rhythm Game",
         "title": "Still Alive"
+    },
+    {
+        "artist": "Glaze",
+        "bpm": 85.0,
+        "content": [
+            "inst",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Direct From Artist",
+        "title": "Awoken"
     }
 ]
