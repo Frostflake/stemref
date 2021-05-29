@@ -5346,5 +5346,19 @@
         },
         "source": "Rhythm Game",
         "title": "Crocodile Rock"
+    },
+    {
+        "artist": "Elton John",
+        "bpm": 88.45,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "3A"
+        },
+        "source": "Rhythm Game",
+        "title": "I'm Still Standing"
     }
 ]
