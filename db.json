@@ -7459,5 +7459,19 @@
         },
         "source": "Rhythm Game",
         "title": "In the End"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 120.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Last Night On Earth"
     }
 ]
