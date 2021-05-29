@@ -7150,5 +7150,19 @@
         },
         "source": "Rhythm Game",
         "title": "American Eulogy"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 112.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Are We The Waiting"
     }
 ]
