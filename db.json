@@ -5853,5 +5853,19 @@
         },
         "source": "Unknown",
         "title": "Landslide"
+    },
+    {
+        "artist": "Fleetwood Mac",
+        "bpm": 129.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Rhiannon"
     }
 ]
