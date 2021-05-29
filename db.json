@@ -6145,5 +6145,19 @@
         },
         "source": "Rhythm Game",
         "title": "New Way Home"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 122.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "See You"
     }
 ]
