@@ -6574,5 +6574,19 @@
         },
         "source": "Download",
         "title": "Crack Up the Creepy"
+    },
+    {
+        "artist": "General Mumble",
+        "bpm": 151.43,
+        "content": [
+            "inst",
+            "diy"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Download",
+        "title": "Perfect"
     }
 ]
