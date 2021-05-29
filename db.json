@@ -6682,5 +6682,18 @@
         },
         "source": "Rhythm Game",
         "title": "Bad to the Bone"
+    },
+    {
+        "artist": "George Thorogood & The Destroyers",
+        "bpm": 87.5,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Move It On Over (Live)"
     }
 ]
