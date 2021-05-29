@@ -6968,5 +6968,19 @@
         },
         "source": "Rhythm Game",
         "title": "Casey Jones"
+    },
+    {
+        "artist": "Grateful Dead",
+        "bpm": 128.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "China Cat Sunflower"
     }
 ]
