@@ -5976,5 +5976,19 @@
         },
         "source": "Rhythm Game",
         "title": "Best of You"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 156.82,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Breakout"
     }
 ]
