@@ -5605,5 +5605,18 @@
         },
         "source": "Remix Contest",
         "title": "Wanna Make You See"
+    },
+    {
+        "artist": "ExoBassTix",
+        "bpm": 145.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "3A"
+        },
+        "source": "Remix Contest",
+        "title": "Your Fantasy"
     }
 ]
