@@ -5249,5 +5249,19 @@
         },
         "source": "Rhythm Game",
         "title": "Shakin'"
+    },
+    {
+        "artist": "Eddie Money",
+        "bpm": 129.14,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Two Tickets to Paradise"
     }
 ]
