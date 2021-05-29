@@ -7235,5 +7235,19 @@
         },
         "source": "Rhythm Game",
         "title": "Burnout"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 89.99,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Christian's Inferno"
     }
 ]
