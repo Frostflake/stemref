@@ -6435,5 +6435,19 @@
         },
         "source": "Rhythm Game",
         "title": "Relax (Come Fighting)"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "bpm": 105.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Take Me Out"
     }
 ]
