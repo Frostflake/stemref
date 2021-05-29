@@ -7865,5 +7865,19 @@
         },
         "source": "Rhythm Game",
         "title": "Prostitute"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 130.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Rhythm Game",
+        "title": "Riad N' The Bedouins"
     }
 ]
