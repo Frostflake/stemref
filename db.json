@@ -5374,5 +5374,19 @@
         },
         "source": "Rhythm Game",
         "title": "Saturday Night's Alright"
+    },
+    {
+        "artist": "Elvis Costello",
+        "bpm": 137.68,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "Rhythm Game",
+        "title": "Pump It Up"
     }
 ]
