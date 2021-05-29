@@ -7193,5 +7193,19 @@
         },
         "source": "Rhythm Game",
         "title": "Basket Case"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 123.95,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "3B"
+        },
+        "source": "Rhythm Game",
+        "title": "Before The Lobotomy"
     }
 ]
