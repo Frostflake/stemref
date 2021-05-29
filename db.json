@@ -5660,5 +5660,18 @@
         },
         "source": "Rhythm Game",
         "title": "We Care Alot"
+    },
+    {
+        "artist": "Fat Boys vs. Mantronix",
+        "bpm": 108.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": ""
+        },
+        "source": "Rhythm Game",
+        "title": "Human Beat Box vs. King Of The Beats"
     }
 ]
