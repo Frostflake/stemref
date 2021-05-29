@@ -8059,5 +8059,19 @@
         },
         "source": "Rhythm Game",
         "title": "Killing Loneliness"
+    },
+    {
+        "artist": "Hinder ",
+        "bpm": 134.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Rhythm Game",
+        "title": "Use Me"
     }
 ]
