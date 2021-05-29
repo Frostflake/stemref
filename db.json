@@ -6914,5 +6914,18 @@
         },
         "source": "CD",
         "title": "Dark Skies (Platinum Mix)"
+    },
+    {
+        "artist": "Graeme Cornies",
+        "bpm": 123.33,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "CD",
+        "title": "I'm My Own Master Now (Platinum Mix)"
     }
 ]
