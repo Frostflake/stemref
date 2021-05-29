@@ -6103,5 +6103,19 @@
         },
         "source": "Rhythm Game",
         "title": "Monkey Wrench"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 153.86,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "My Hero"
     }
 ]
