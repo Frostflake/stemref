@@ -6004,5 +6004,20 @@
         },
         "source": "Rhythm Game",
         "title": "DOA"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 118.25,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 3,
+        "key": {
+            "primary": "9B",
+            "secondary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Doll"
     }
 ]
