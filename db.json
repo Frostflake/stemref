@@ -6312,5 +6312,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hot Blooded"
+    },
+    {
+        "artist": "Foreigner",
+        "bpm": 81.23,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Rhythm Game",
+        "title": "I Wanna Know What Love Is"
     }
 ]
