@@ -5618,5 +5618,19 @@
         },
         "source": "Remix Contest",
         "title": "Your Fantasy"
+    },
+    {
+        "artist": "Extreme",
+        "bpm": 101.91,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Rhythm Game",
+        "title": "Play With Me"
     }
 ]
