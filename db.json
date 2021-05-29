@@ -7417,5 +7417,19 @@
         },
         "source": "Rhythm Game",
         "title": "Holiday"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 110.4,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Homecoming"
     }
 ]
