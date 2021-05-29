@@ -7781,5 +7781,19 @@
         },
         "source": "Rhythm Game",
         "title": "Better"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 85.24,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Catcher in the Rye"
     }
 ]
