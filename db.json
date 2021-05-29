@@ -7473,5 +7473,19 @@
         },
         "source": "Rhythm Game",
         "title": "Last Night On Earth"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 121.12,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "Rhythm Game",
+        "title": "Last Of The American Girls"
     }
 ]
