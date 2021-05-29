@@ -7093,5 +7093,19 @@
         },
         "source": "Direct From Artist",
         "title": "Murdera Anthem"
+    },
+    {
+        "artist": "Great White",
+        "bpm": 131.41,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "Once Bitten Twice Shy"
     }
 ]
