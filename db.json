@@ -5990,5 +5990,19 @@
         },
         "source": "Rhythm Game",
         "title": "Breakout"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 145.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "DOA"
     }
 ]
