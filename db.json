@@ -7010,5 +7010,19 @@
         },
         "source": "Rhythm Game",
         "title": "I Need a Miracle"
+    },
+    {
+        "artist": "Grateful Dead",
+        "bpm": 155.41,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Sugar Magnolia"
     }
 ]
