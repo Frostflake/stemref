@@ -6927,5 +6927,18 @@
         },
         "source": "CD",
         "title": "I'm My Own Master Now (Platinum Mix)"
+    },
+    {
+        "artist": "Graeme Cornies",
+        "bpm": 80.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "CD",
+        "title": "The War Still Rages Within"
     }
 ]
