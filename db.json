@@ -6805,5 +6805,19 @@
         },
         "source": "Direct From Artist",
         "title": "Pinkie's Lie"
+    },
+    {
+        "artist": "Glaze",
+        "bpm": 148.0,
+        "content": [
+            "inst",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Direct From Artist",
+        "title": "Rainbow Factory"
     }
 ]
