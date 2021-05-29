@@ -5360,5 +5360,19 @@
         },
         "source": "Rhythm Game",
         "title": "I'm Still Standing"
+    },
+    {
+        "artist": "Elton John",
+        "bpm": 152.64,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7B"
+        },
+        "source": "Rhythm Game",
+        "title": "Saturday Night's Alright"
     }
 ]
