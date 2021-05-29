@@ -6518,5 +6518,19 @@
         },
         "source": "Rhythm Game",
         "title": "We Are Young"
+    },
+    {
+        "artist": "Garbage",
+        "bpm": 114.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Rhythm Game",
+        "title": "I Think I'm Paranoid"
     }
 ]
