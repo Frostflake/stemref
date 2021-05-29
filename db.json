@@ -5483,5 +5483,19 @@
         },
         "source": "Rhythm Game",
         "title": "Rock The Night"
+    },
+    {
+        "artist": "Europe",
+        "bpm": 117.64,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Rhythm Game",
+        "title": "The Final Countdown"
     }
 ]
