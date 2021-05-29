@@ -8019,5 +8019,18 @@
         },
         "source": "Rhythm Game",
         "title": "Barracuda"
+    },
+    {
+        "artist": "Heart",
+        "bpm": 148.81,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Crazy On You"
     }
 ]
