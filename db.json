@@ -6257,5 +6257,19 @@
         },
         "source": "Rhythm Game",
         "title": "Wind Up"
+    },
+    {
+        "artist": "Foreigner",
+        "bpm": 120.39,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "Blue Monday"
     }
 ]
