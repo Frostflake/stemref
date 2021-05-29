@@ -6075,5 +6075,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hey Johnny Park"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 135.92,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "Rhythm Game",
+        "title": "Learn to Fly"
     }
 ]
