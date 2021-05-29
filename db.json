@@ -7628,5 +7628,19 @@
         },
         "source": "Rhythm Game",
         "title": "See The Light"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 118.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Rhythm Game",
+        "title": "She"
     }
 ]
