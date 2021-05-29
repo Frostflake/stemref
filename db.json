@@ -6846,5 +6846,18 @@
         },
         "source": "Direct From Artist",
         "title": "Fruits Of Her Labour"
+    },
+    {
+        "artist": "Glaze & The Living Tombstone",
+        "bpm": 105.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Direct From Artist",
+        "title": "Love Me Cheerilee"
     }
 ]
