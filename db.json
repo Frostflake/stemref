@@ -6019,5 +6019,19 @@
         },
         "source": "Rhythm Game",
         "title": "Doll"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 143.88,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Enough Space"
     }
 ]
