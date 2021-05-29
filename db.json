@@ -6560,5 +6560,19 @@
         },
         "source": "Rhythm Game",
         "title": "Why Do You Love Me"
+    },
+    {
+        "artist": "General Mumble",
+        "bpm": 135.0,
+        "content": [
+            "inst",
+            "diy"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Download",
+        "title": "Crack Up the Creepy"
     }
 ]
