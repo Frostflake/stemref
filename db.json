@@ -5921,5 +5921,18 @@
         },
         "source": "CD",
         "title": "GO!!!"
+    },
+    {
+        "artist": "Flyleaf",
+        "bpm": 156.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Rhythm Game",
+        "title": "Again"
     }
 ]
