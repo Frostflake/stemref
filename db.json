@@ -5797,5 +5797,20 @@
         },
         "source": "Rhythm Game",
         "title": "Don't Stop"
+    },
+    {
+        "artist": "Fleetwood Mac",
+        "bpm": 120.85,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "8B",
+            "secondary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Dreams"
     }
 ]
