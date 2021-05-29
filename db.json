@@ -7403,5 +7403,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hitchin' a Ride"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 146.5,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Rhythm Game",
+        "title": "Holiday"
     }
 ]
