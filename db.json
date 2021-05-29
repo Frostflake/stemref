@@ -5742,5 +5742,19 @@
         },
         "source": "Unknown",
         "title": "Highway"
+    },
+    {
+        "artist": "Fireman",
+        "bpm": 95.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Unknown",
+        "title": "Light From Your Lighthouse"
     }
 ]
