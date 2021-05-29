@@ -5812,5 +5812,19 @@
         },
         "source": "Rhythm Game",
         "title": "Dreams"
+    },
+    {
+        "artist": "Fleetwood Mac",
+        "bpm": 135.74,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7B"
+        },
+        "source": "Rhythm Game",
+        "title": "Go Your Own Way"
     }
 ]
