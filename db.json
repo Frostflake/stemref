@@ -6954,5 +6954,19 @@
         },
         "source": "Rhythm Game",
         "title": "We're An American Band"
+    },
+    {
+        "artist": "Grateful Dead",
+        "bpm": 98.2,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "Casey Jones"
     }
 ]
