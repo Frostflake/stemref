@@ -8101,5 +8101,20 @@
         },
         "source": "Rhythm Game",
         "title": "Young"
+    },
+    {
+        "artist": "Honest Bob & the Factory-to-dealer Incentives",
+        "bpm": 117.13,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12B",
+            "secondary": "1B"
+        },
+        "source": "Rhythm Game",
+        "title": "I Get By"
     }
 ]
