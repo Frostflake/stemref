@@ -7600,5 +7600,19 @@
         },
         "source": "Rhythm Game",
         "title": "Restless Heart Syndrome"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 120.85,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4B"
+        },
+        "source": "Rhythm Game",
+        "title": "Sassafrass Roots"
     }
 ]
