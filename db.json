@@ -5525,5 +5525,19 @@
         },
         "source": "Rhythm Game",
         "title": "Santa Monica (Watch The World Die)"
+    },
+    {
+        "artist": "Everlife",
+        "bpm": 151.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7B"
+        },
+        "source": "Rhythm Game",
+        "title": "Real Wild Child"
     }
 ]
