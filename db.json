@@ -6215,5 +6215,19 @@
         },
         "source": "Rhythm Game",
         "title": "Times Like These"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 142.2,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "Up In Arms"
     }
 ]
