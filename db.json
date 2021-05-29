@@ -6615,5 +6615,19 @@
         },
         "source": "Direct From Artist",
         "title": "She's A Pony [WoodenToaster Remix]"
+    },
+    {
+        "artist": "General Mumble feat. Daemien",
+        "bpm": 95.0,
+        "content": [
+            "inst",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Download",
+        "title": "Consumed (You're Doomed)"
     }
 ]
