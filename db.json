@@ -5539,5 +5539,19 @@
         },
         "source": "Rhythm Game",
         "title": "Real Wild Child"
+    },
+    {
+        "artist": "Evile",
+        "bpm": 104.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Rhythm Game",
+        "title": "Thrasher"
     }
 ]
