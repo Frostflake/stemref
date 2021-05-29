@@ -6940,5 +6940,19 @@
         },
         "source": "CD",
         "title": "The War Still Rages Within"
+    },
+    {
+        "artist": "Grand Funk Railroad",
+        "bpm": 126.58,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "We're An American Band"
     }
 ]
