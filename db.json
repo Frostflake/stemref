@@ -6982,5 +6982,19 @@
         },
         "source": "Rhythm Game",
         "title": "China Cat Sunflower"
+    },
+    {
+        "artist": "Grateful Dead",
+        "bpm": 99.4,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 3,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Franklin's Tower"
     }
 ]
