@@ -6859,5 +6859,19 @@
         },
         "source": "Direct From Artist",
         "title": "Love Me Cheerilee"
+    },
+    {
+        "artist": "Goo Goo Dolls",
+        "bpm": 147.93,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Name"
     }
 ]
