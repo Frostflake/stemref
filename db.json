@@ -7051,5 +7051,19 @@
         },
         "source": "Direct From Artist",
         "title": "Higherlove Hatefest"
+    },
+    {
+        "artist": "Graz",
+        "bpm": 87.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Direct From Artist",
+        "title": "Junglist Mastiff"
     }
 ]
