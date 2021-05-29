@@ -5456,5 +5456,19 @@
         },
         "source": "Rhythm Game",
         "title": "Lady Gaga's 'Poker Face' (South Park Version)"
+    },
+    {
+        "artist": "Eurobeat Brony",
+        "bpm": 145.0,
+        "content": [
+            "inst",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Download",
+        "title": "This Day Aria (Changeling Mix)"
     }
 ]
