@@ -8187,5 +8187,19 @@
         },
         "source": "Rhythm Game",
         "title": "Tumble"
+    },
+    {
+        "artist": "Hypernova",
+        "bpm": 149.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Rhythm Game",
+        "title": "Viva La Resistance"
     }
 ]
