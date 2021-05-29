@@ -7207,5 +7207,19 @@
         },
         "source": "Rhythm Game",
         "title": "Before The Lobotomy"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 151.28,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "4B"
+        },
+        "source": "Rhythm Game",
+        "title": "Brain Stew; Jaded"
     }
 ]
