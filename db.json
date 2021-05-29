@@ -7697,5 +7697,19 @@
         },
         "source": "Rhythm Game",
         "title": "Warning"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 118.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "Welcome to Paradise"
     }
 ]
