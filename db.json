@@ -7375,5 +7375,19 @@
         },
         "source": "Rhythm Game",
         "title": "Good Riddance (Time of Your Life)"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 89.74,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "4B"
+        },
+        "source": "Rhythm Game",
+        "title": "Having a Blast"
     }
 ]
