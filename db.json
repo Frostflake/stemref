@@ -7879,5 +7879,19 @@
         },
         "source": "Rhythm Game",
         "title": "Riad N' The Bedouins"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 118.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Scraped"
     }
 ]
