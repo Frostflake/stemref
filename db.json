@@ -5826,5 +5826,19 @@
         },
         "source": "Rhythm Game",
         "title": "Go Your Own Way"
+    },
+    {
+        "artist": "Fleetwood Mac",
+        "bpm": 123.33,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Gold Dust Woman"
     }
 ]
