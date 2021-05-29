@@ -8144,5 +8144,19 @@
         },
         "source": "Rhythm Game",
         "title": "Do You Believe In Love"
+    },
+    {
+        "artist": "Huey Lewis and the News",
+        "bpm": 144.78,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Heart of Rock & Roll"
     }
 ]
