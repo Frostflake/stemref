@@ -5332,5 +5332,19 @@
         },
         "source": "Rhythm Game",
         "title": "L.A"
+    },
+    {
+        "artist": "Elton John",
+        "bpm": 151.2,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Crocodile Rock"
     }
 ]
