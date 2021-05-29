@@ -7107,5 +7107,19 @@
         },
         "source": "Rhythm Game",
         "title": "Once Bitten Twice Shy"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 114.95,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "3B"
+        },
+        "source": "Rhythm Game",
+        "title": "21st Century Breakdown"
     }
 ]
