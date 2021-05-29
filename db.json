@@ -7347,5 +7347,19 @@
         },
         "source": "Rhythm Game",
         "title": "Geek Stink Breath"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 153.14,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Give Me Novacaine; She's A Rebel"
     }
 ]
