@@ -7291,5 +7291,19 @@
         },
         "source": "Rhythm Game",
         "title": "East Jesus Nowhere"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 118.83,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "Emenius Sleepus"
     }
 ]
