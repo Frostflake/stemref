@@ -6642,5 +6642,18 @@
         },
         "source": "Download",
         "title": "Devil in Me"
+    },
+    {
+        "artist": "General Mumble x Daemien x Spott",
+        "bpm": 130.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Download",
+        "title": "Beat The Walls Down"
     }
 ]
