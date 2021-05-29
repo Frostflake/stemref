@@ -6421,5 +6421,19 @@
         },
         "source": "Unknown",
         "title": "Fly Me To The Moon"
+    },
+    {
+        "artist": "Frankie Goes To Hollywood",
+        "bpm": 115.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Relax (Come Fighting)"
     }
 ]
