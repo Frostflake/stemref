@@ -7135,5 +7135,20 @@
         },
         "source": "Rhythm Game",
         "title": "\u00bfViva la Gloria? (Little Girl)"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 86.5,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "3B",
+            "secondary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "American Eulogy"
     }
 ]
