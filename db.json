@@ -5783,5 +5783,19 @@
         },
         "source": "Direct From Artist",
         "title": "I Was Never Alive"
+    },
+    {
+        "artist": "Fleetwood Mac",
+        "bpm": 119.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Don't Stop"
     }
 ]
