@@ -6117,5 +6117,19 @@
         },
         "source": "Rhythm Game",
         "title": "My Hero"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 126.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Rhythm Game",
+        "title": "My Poor Brain"
     }
 ]
