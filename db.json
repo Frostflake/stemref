@@ -5428,5 +5428,19 @@
         },
         "source": "Unknown",
         "title": "I Like It"
+    },
+    {
+        "artist": "Erasure",
+        "bpm": 113.86,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "A Little Respect"
     }
 ]
