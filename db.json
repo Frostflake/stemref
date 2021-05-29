@@ -5770,5 +5770,18 @@
         },
         "source": "Unknown",
         "title": "Sing the Changes"
+    },
+    {
+        "artist": "FLAOFEI",
+        "bpm": 90.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Direct From Artist",
+        "title": "I Was Never Alive"
     }
 ]
