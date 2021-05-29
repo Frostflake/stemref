@@ -6340,5 +6340,19 @@
         },
         "source": "Rhythm Game",
         "title": "Juke Box Hero"
+    },
+    {
+        "artist": "Foreigner",
+        "bpm": 116.41,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Urgent"
     }
 ]
