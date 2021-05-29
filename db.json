@@ -7038,5 +7038,18 @@
         },
         "source": "Rhythm Game",
         "title": "Truckin'"
+    },
+    {
+        "artist": "Graz",
+        "bpm": 190.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Direct From Artist",
+        "title": "Higherlove Hatefest"
     }
 ]
