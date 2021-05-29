@@ -7754,5 +7754,18 @@
         },
         "source": "Rhythm Game",
         "title": "Hand Me Down World"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 127.24,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "3B"
+        },
+        "source": "Rhythm Game",
+        "title": "Sweet Child 'O Mine"
     }
 ]
