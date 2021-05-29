@@ -6463,5 +6463,18 @@
         },
         "source": "Rhythm Game",
         "title": "All Right Now"
+    },
+    {
+        "artist": "Free Dominguez",
+        "bpm": 82.5,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "CD",
+        "title": "A Stranger I Remain (Maniac Agenda Mix)"
     }
 ]
