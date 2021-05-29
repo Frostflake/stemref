@@ -6791,5 +6791,19 @@
         },
         "source": "Direct From Artist",
         "title": "Lost On The Moon (feat. Rina Chan)"
+    },
+    {
+        "artist": "Glaze",
+        "bpm": 139.0,
+        "content": [
+            "inst",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Direct From Artist",
+        "title": "Pinkie's Lie"
     }
 ]
