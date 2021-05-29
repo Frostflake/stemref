@@ -7079,5 +7079,19 @@
         },
         "source": "Direct From Artist",
         "title": "Mappoint Of The Living Dead"
+    },
+    {
+        "artist": "Graz",
+        "bpm": 92.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Direct From Artist",
+        "title": "Murdera Anthem"
     }
 ]
