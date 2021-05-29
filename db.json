@@ -5511,5 +5511,19 @@
         },
         "source": "Rhythm Game",
         "title": "Bring Me to Life"
+    },
+    {
+        "artist": "Everclear",
+        "bpm": 99.28,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Santa Monica (Watch The World Die)"
     }
 ]
