@@ -7572,5 +7572,19 @@
         },
         "source": "Rhythm Game",
         "title": "Peacemaker"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 129.51,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "Pulling Teeth"
     }
 ]
