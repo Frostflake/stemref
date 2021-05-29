@@ -7922,5 +7922,19 @@
         },
         "source": "Rhythm Game",
         "title": "Sorry"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 85.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Rhythm Game",
+        "title": "Street of Dreams"
     }
 ]
