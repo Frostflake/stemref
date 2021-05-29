@@ -6229,5 +6229,19 @@
         },
         "source": "Rhythm Game",
         "title": "Up In Arms"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 124.43,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Walking After You"
     }
 ]
