@@ -5497,5 +5497,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Final Countdown"
+    },
+    {
+        "artist": "Evanescence",
+        "bpm": 95.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Bring Me to Life"
     }
 ]
