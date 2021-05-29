@@ -5686,5 +5686,19 @@
         },
         "source": "Unknown",
         "title": "Weapon Of Choice"
+    },
+    {
+        "artist": "Filter",
+        "bpm": 99.18,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Take A Picture"
     }
 ]
