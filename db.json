@@ -5728,5 +5728,19 @@
         },
         "source": "Unknown",
         "title": "Dance 'Til We're High"
+    },
+    {
+        "artist": "Fireman",
+        "bpm": 118.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Unknown",
+        "title": "Highway"
     }
 ]
