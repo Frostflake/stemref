@@ -7767,5 +7767,19 @@
         },
         "source": "Rhythm Game",
         "title": "Sweet Child 'O Mine"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 98.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Better"
     }
 ]
