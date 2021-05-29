@@ -5934,5 +5934,19 @@
         },
         "source": "Rhythm Game",
         "title": "Again"
+    },
+    {
+        "artist": "Flyleaf",
+        "bpm": 154.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "I'm So Sick"
     }
 ]
