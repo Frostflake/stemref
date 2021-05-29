@@ -7991,5 +7991,19 @@
         },
         "source": "Unknown",
         "title": "Hard To Beat"
+    },
+    {
+        "artist": "Harvey Danger",
+        "bpm": 140.13,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Rhythm Game",
+        "title": "Cream and Bastards Rise"
     }
 ]
