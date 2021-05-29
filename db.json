@@ -6407,5 +6407,19 @@
         },
         "source": "Unknown",
         "title": "Urchin"
+    },
+    {
+        "artist": "Frank Sinatra",
+        "bpm": 117.75,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Unknown",
+        "title": "Fly Me To The Moon"
     }
 ]
