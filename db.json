@@ -7655,5 +7655,19 @@
         },
         "source": "Rhythm Game",
         "title": "Song Of The Century"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 156.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "Rhythm Game",
+        "title": "The Static Age"
     }
 ]
