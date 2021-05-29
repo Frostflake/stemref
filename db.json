@@ -6546,5 +6546,19 @@
         },
         "source": "Rhythm Game",
         "title": "Only Happy When It Rains"
+    },
+    {
+        "artist": "Garbage",
+        "bpm": 80.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Why Do You Love Me"
     }
 ]
