@@ -6929,19 +6929,6 @@
         "title": "I'm My Own Master Now (Platinum Mix)"
     },
     {
-        "artist": "Graeme Cornies",
-        "bpm": 80.0,
-        "content": [
-            "inst"
-        ],
-        "energy": 7,
-        "key": {
-            "primary": "9A"
-        },
-        "source": "CD",
-        "title": "The War Still Rages Within"
-    },
-    {
         "artist": "Grand Funk Railroad",
         "bpm": 126.58,
         "content": [
@@ -7739,5 +7726,19 @@
         },
         "source": "Rhythm Game",
         "title": "When I Come Around"
+    },
+    {
+        "artist": "GTA feat. Sam Bruno",
+        "bpm": 150.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Remix Contest",
+        "title": "Red Lips"
     }
 ]
