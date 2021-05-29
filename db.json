@@ -7501,5 +7501,19 @@
         },
         "source": "Rhythm Game",
         "title": "Letterbomb"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 141.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "Longview"
     }
 ]
