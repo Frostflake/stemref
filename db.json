@@ -7936,5 +7936,19 @@
         },
         "source": "Rhythm Game",
         "title": "Street of Dreams"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 90.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "There Was A Time"
     }
 ]
