@@ -6201,5 +6201,19 @@
         },
         "source": "Rhythm Game",
         "title": "This Is a Call"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 144.84,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Times Like These"
     }
 ]
