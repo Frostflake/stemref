@@ -6061,5 +6061,19 @@
         },
         "source": "Rhythm Game",
         "title": "February Stars"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 84.93,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Hey Johnny Park"
     }
 ]
