@@ -7893,5 +7893,20 @@
         },
         "source": "Rhythm Game",
         "title": "Scraped"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 132.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A",
+            "secondary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Shacklers Revenge"
     }
 ]
