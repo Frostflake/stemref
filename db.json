@@ -6033,5 +6033,19 @@
         },
         "source": "Rhythm Game",
         "title": "Enough Space"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 157.86,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "Everlong"
     }
 ]
