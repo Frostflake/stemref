@@ -6764,5 +6764,18 @@
         },
         "source": "Direct From Artist",
         "title": "Beyond Her Garden"
+    },
+    {
+        "artist": "Glaze",
+        "bpm": 107.0,
+        "content": [
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "3B"
+        },
+        "source": "Direct From Artist",
+        "title": "Heartmender"
     }
 ]
