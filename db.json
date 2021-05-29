@@ -6187,5 +6187,19 @@
         },
         "source": "Rhythm Game",
         "title": "These Days"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 107.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "This Is a Call"
     }
 ]
