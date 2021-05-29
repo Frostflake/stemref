@@ -7725,5 +7725,19 @@
         },
         "source": "Rhythm Game",
         "title": "Whatsername"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 132.2,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Rhythm Game",
+        "title": "When I Come Around"
     }
 ]
