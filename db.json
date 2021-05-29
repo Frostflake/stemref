@@ -5236,5 +5236,18 @@
         },
         "source": "Rhythm Game",
         "title": "One Of These Nights"
+    },
+    {
+        "artist": "Eddie Money",
+        "bpm": 113.29,
+        "content": [
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "Shakin'"
     }
 ]
