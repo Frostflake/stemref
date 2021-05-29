@@ -5442,5 +5442,19 @@
         },
         "source": "Rhythm Game",
         "title": "A Little Respect"
+    },
+    {
+        "artist": "Eric Cartman",
+        "bpm": 119.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Rhythm Game",
+        "title": "Lady Gaga's 'Poker Face' (South Park Version)"
     }
 ]
