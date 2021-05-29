@@ -7586,5 +7586,19 @@
         },
         "source": "Rhythm Game",
         "title": "Pulling Teeth"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 82.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Rhythm Game",
+        "title": "Restless Heart Syndrome"
     }
 ]
