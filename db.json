@@ -5881,5 +5881,19 @@
         },
         "source": "Rhythm Game",
         "title": "Business Time"
+    },
+    {
+        "artist": "Flight Of The Conchords",
+        "bpm": 144.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Most Beautiful Girl In The Room"
     }
 ]
