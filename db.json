@@ -6159,5 +6159,19 @@
         },
         "source": "Rhythm Game",
         "title": "See You"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 120.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Something From Nothing"
     }
 ]
