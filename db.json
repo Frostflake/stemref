@@ -7529,5 +7529,19 @@
         },
         "source": "Rhythm Game",
         "title": "Minority"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 91.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Murder City"
     }
 ]
