@@ -6476,5 +6476,19 @@
         },
         "source": "CD",
         "title": "A Stranger I Remain (Maniac Agenda Mix)"
+    },
+    {
+        "artist": "Freezepop",
+        "bpm": 95.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Brainpower"
     }
 ]
