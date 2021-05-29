@@ -7837,5 +7837,19 @@
         },
         "source": "Rhythm Game",
         "title": "If The World"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 81.5,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Madagascar"
     }
 ]
