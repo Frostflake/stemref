@@ -6047,5 +6047,19 @@
         },
         "source": "Rhythm Game",
         "title": "Everlong"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 151.88,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "February Stars"
     }
 ]
