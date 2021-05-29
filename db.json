@@ -6449,5 +6449,19 @@
         },
         "source": "Rhythm Game",
         "title": "Take Me Out"
+    },
+    {
+        "artist": "Free",
+        "bpm": 119.62,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "All Right Now"
     }
 ]
