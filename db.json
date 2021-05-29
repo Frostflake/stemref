@@ -6490,5 +6490,19 @@
         },
         "source": "Rhythm Game",
         "title": "Brainpower"
+    },
+    {
+        "artist": "Freezepop",
+        "bpm": 150.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Super Spr\u00f8de"
     }
 ]
