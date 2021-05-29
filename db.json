@@ -7249,5 +7249,19 @@
         },
         "source": "Rhythm Game",
         "title": "Christian's Inferno"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 118.22,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Rhythm Game",
+        "title": "Chump"
     }
 ]
