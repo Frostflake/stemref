@@ -6695,5 +6695,20 @@
         },
         "source": "Rhythm Game",
         "title": "Move It On Over (Live)"
+    },
+    {
+        "artist": "Ghost Hounds",
+        "bpm": 137.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2A",
+            "secondary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Ashes to Fire"
     }
 ]
