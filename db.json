@@ -5318,5 +5318,19 @@
         },
         "source": "Rhythm Game",
         "title": "Gay Bar"
+    },
+    {
+        "artist": "Elliot Smith",
+        "bpm": 87.28,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "L.A"
     }
 ]
