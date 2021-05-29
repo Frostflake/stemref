@@ -7964,5 +7964,18 @@
         },
         "source": "Rhythm Game",
         "title": "This I Love"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "bpm": 131.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Unknown",
+        "title": "The Dark Knight Rises Trailer #3"
     }
 ]
