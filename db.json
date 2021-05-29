@@ -6723,5 +6723,19 @@
         },
         "source": "Unknown",
         "title": "E=MC2"
+    },
+    {
+        "artist": "GLaDOS",
+        "bpm": 120.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Still Alive"
     }
 ]
