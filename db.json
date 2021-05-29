@@ -8032,5 +8032,18 @@
         },
         "source": "Rhythm Game",
         "title": "Crazy On You"
+    },
+    {
+        "artist": "Helicopter Showdown & Sluggo Ft. Bryan Dallas",
+        "bpm": 140.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Remix Contest",
+        "title": "I Want It All"
     }
 ]
