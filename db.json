@@ -5756,5 +5756,19 @@
         },
         "source": "Unknown",
         "title": "Light From Your Lighthouse"
+    },
+    {
+        "artist": "Fireman",
+        "bpm": 118.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7B"
+        },
+        "source": "Unknown",
+        "title": "Sing the Changes"
     }
 ]
