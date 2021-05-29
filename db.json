@@ -5632,5 +5632,19 @@
         },
         "source": "Rhythm Game",
         "title": "Play With Me"
+    },
+    {
+        "artist": "Faith No More",
+        "bpm": 87.16,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Epic"
     }
 ]
