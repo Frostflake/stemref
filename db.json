@@ -5388,5 +5388,18 @@
         },
         "source": "Rhythm Game",
         "title": "Pump It Up"
+    },
+    {
+        "artist": "Elvis Costello",
+        "bpm": 148.23,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Radio Radio"
     }
 ]
