@@ -5553,5 +5553,18 @@
         },
         "source": "Rhythm Game",
         "title": "Thrasher"
+    },
+    {
+        "artist": "ExoBassTix",
+        "bpm": 145.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Remix Contest",
+        "title": "Beyond The Electric Fence"
     }
 ]
