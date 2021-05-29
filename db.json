@@ -5673,5 +5673,18 @@
         },
         "source": "Rhythm Game",
         "title": "Human Beat Box vs. King Of The Beats"
+    },
+    {
+        "artist": "Fatboy Slim",
+        "bpm": 137.17,
+        "content": [
+            "stems"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Unknown",
+        "title": "Weapon Of Choice"
     }
 ]
