@@ -7487,5 +7487,19 @@
         },
         "source": "Rhythm Game",
         "title": "Last Of The American Girls"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 116.73,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Letterbomb"
     }
 ]
