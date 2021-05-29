@@ -7305,5 +7305,19 @@
         },
         "source": "Rhythm Game",
         "title": "Emenius Sleepus"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 147.66,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Extraordinary Girl"
     }
 ]
