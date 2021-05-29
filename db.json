@@ -6504,5 +6504,19 @@
         },
         "source": "Rhythm Game",
         "title": "Super Spr\u00f8de"
+    },
+    {
+        "artist": "Fun. ft. Janelle Mon\u00e9",
+        "bpm": 116.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "We Are Young"
     }
 ]
