@@ -5290,5 +5290,19 @@
         },
         "source": "Rhythm Game",
         "title": "Munich"
+    },
+    {
+        "artist": "Eiffel 65",
+        "bpm": 128.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Blue da ba dee"
     }
 ]
