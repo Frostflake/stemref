@@ -5592,5 +5592,18 @@
         },
         "source": "Remix Contest",
         "title": "Mental Reboot (Preview)"
+    },
+    {
+        "artist": "ExoBassTix",
+        "bpm": 85.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Remix Contest",
+        "title": "Wanna Make You See"
     }
 ]
