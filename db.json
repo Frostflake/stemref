@@ -7361,5 +7361,19 @@
         },
         "source": "Rhythm Game",
         "title": "Give Me Novacaine; She's A Rebel"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 127.56,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Good Riddance (Time of Your Life)"
     }
 ]
