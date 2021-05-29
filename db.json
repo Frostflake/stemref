@@ -7543,5 +7543,19 @@
         },
         "source": "Rhythm Game",
         "title": "Murder City"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 94.17,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Nice Guys Finish Last"
     }
 ]
