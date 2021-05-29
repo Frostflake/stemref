@@ -7024,5 +7024,19 @@
         },
         "source": "Rhythm Game",
         "title": "Sugar Magnolia"
+    },
+    {
+        "artist": "Grateful Dead",
+        "bpm": 128.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Truckin'"
     }
 ]
