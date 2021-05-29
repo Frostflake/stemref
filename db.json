@@ -5263,5 +5263,18 @@
         },
         "source": "Rhythm Game",
         "title": "Two Tickets to Paradise"
+    },
+    {
+        "artist": "Edgar Winter",
+        "bpm": 125.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Free Ride"
     }
 ]
