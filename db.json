@@ -7065,5 +7065,19 @@
         },
         "source": "Direct From Artist",
         "title": "Junglist Mastiff"
+    },
+    {
+        "artist": "Graz",
+        "bpm": 86.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Direct From Artist",
+        "title": "Mappoint Of The Living Dead"
     }
 ]
