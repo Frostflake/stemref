@@ -6271,5 +6271,19 @@
         },
         "source": "Rhythm Game",
         "title": "Blue Monday"
+    },
+    {
+        "artist": "Foreigner",
+        "bpm": 126.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Double Vision"
     }
 ]
