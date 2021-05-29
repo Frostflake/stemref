@@ -7950,5 +7950,19 @@
         },
         "source": "Rhythm Game",
         "title": "There Was A Time"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 126.68,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Rhythm Game",
+        "title": "This I Love"
     }
 ]
