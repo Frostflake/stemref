@@ -7809,5 +7809,19 @@
         },
         "source": "Rhythm Game",
         "title": "Chinese Democracy"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 90.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Rhythm Game",
+        "title": "I.R.S"
     }
 ]
