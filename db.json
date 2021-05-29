@@ -5962,5 +5962,19 @@
         },
         "source": "Rhythm Game",
         "title": "Tina"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 125.84,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Best of You"
     }
 ]
