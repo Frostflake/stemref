@@ -7795,5 +7795,19 @@
         },
         "source": "Rhythm Game",
         "title": "Catcher in the Rye"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 134.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Chinese Democracy"
     }
 ]
