@@ -6326,5 +6326,19 @@
         },
         "source": "Rhythm Game",
         "title": "I Wanna Know What Love Is"
+    },
+    {
+        "artist": "Foreigner",
+        "bpm": 88.63,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Rhythm Game",
+        "title": "Juke Box Hero"
     }
 ]
