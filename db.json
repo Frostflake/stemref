@@ -6710,5 +6710,18 @@
         },
         "source": "Rhythm Game",
         "title": "Ashes to Fire"
+    },
+    {
+        "artist": "Giorgio Moroder",
+        "bpm": 121.41,
+        "content": [
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Unknown",
+        "title": "E=MC2"
     }
 ]
