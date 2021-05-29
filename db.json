@@ -6298,5 +6298,19 @@
         },
         "source": "Rhythm Game",
         "title": "Feels Like the First Time"
+    },
+    {
+        "artist": "Foreigner",
+        "bpm": 118.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Hot Blooded"
     }
 ]
