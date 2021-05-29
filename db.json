@@ -5908,5 +5908,18 @@
         },
         "source": "Rhythm Game",
         "title": "Low (Travis Barker Remix)"
+    },
+    {
+        "artist": "Flow",
+        "bpm": 134.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "CD",
+        "title": "GO!!!"
     }
 ]
