@@ -8130,5 +8130,19 @@
         },
         "source": "Rhythm Game",
         "title": "Bandages"
+    },
+    {
+        "artist": "Huey Lewis and the News",
+        "bpm": 113.93,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "1B"
+        },
+        "source": "Rhythm Game",
+        "title": "Do You Believe In Love"
     }
 ]
