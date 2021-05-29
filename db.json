@@ -6285,5 +6285,18 @@
         },
         "source": "Rhythm Game",
         "title": "Double Vision"
+    },
+    {
+        "artist": "Foreigner",
+        "bpm": 107.4,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Feels Like the First Time"
     }
 ]
