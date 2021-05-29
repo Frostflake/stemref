@@ -6367,5 +6367,19 @@
         },
         "source": "Remix Contest",
         "title": "Pumped Up Kicks"
+    },
+    {
+        "artist": "Fountains Of Wayne",
+        "bpm": 118.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Stacy's Mom"
     }
 ]
