@@ -7121,5 +7121,19 @@
         },
         "source": "Rhythm Game",
         "title": "21st Century Breakdown"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 93.49,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Rhythm Game",
+        "title": "\u00bfViva la Gloria? (Little Girl)"
     }
 ]
