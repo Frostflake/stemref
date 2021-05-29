@@ -6394,5 +6394,18 @@
         },
         "source": "Unknown",
         "title": "Avare"
+    },
+    {
+        "artist": "Fractal",
+        "bpm": 123.75,
+        "content": [
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Unknown",
+        "title": "Urchin"
     }
 ]
