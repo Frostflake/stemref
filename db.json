@@ -8116,5 +8116,19 @@
         },
         "source": "Rhythm Game",
         "title": "I Get By"
+    },
+    {
+        "artist": "Hot Hot Heat",
+        "bpm": 146.91,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Bandages"
     }
 ]
