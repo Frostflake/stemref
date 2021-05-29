@@ -6532,5 +6532,19 @@
         },
         "source": "Rhythm Game",
         "title": "I Think I'm Paranoid"
+    },
+    {
+        "artist": "Garbage",
+        "bpm": 121.47,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Only Happy When It Rains"
     }
 ]
