@@ -6243,5 +6243,19 @@
         },
         "source": "Rhythm Game",
         "title": "Walking After You"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 128.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "Wind Up"
     }
 ]
