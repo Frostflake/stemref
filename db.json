@@ -6668,5 +6668,19 @@
         },
         "source": "Unknown",
         "title": "Abacab"
+    },
+    {
+        "artist": "George Thorogood & The Destroyers",
+        "bpm": 99.45,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Rhythm Game",
+        "title": "Bad to the Bone"
     }
 ]
