@@ -8045,5 +8045,19 @@
         },
         "source": "Remix Contest",
         "title": "I Want It All"
+    },
+    {
+        "artist": "HIM",
+        "bpm": 134.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Killing Loneliness"
     }
 ]
