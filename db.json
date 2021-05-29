@@ -5646,5 +5646,19 @@
         },
         "source": "Rhythm Game",
         "title": "Epic"
+    },
+    {
+        "artist": "Faith No More",
+        "bpm": 108.36,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "We Care Alot"
     }
 ]
