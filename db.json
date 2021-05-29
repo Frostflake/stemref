@@ -7851,5 +7851,19 @@
         },
         "source": "Rhythm Game",
         "title": "Madagascar"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "bpm": 107.2,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Prostitute"
     }
 ]
