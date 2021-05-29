@@ -8005,5 +8005,19 @@
         },
         "source": "Rhythm Game",
         "title": "Cream and Bastards Rise"
+    },
+    {
+        "artist": "Heart",
+        "bpm": 135.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Barracuda"
     }
 ]
