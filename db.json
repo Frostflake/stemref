@@ -7557,5 +7557,20 @@
         },
         "source": "Rhythm Game",
         "title": "Nice Guys Finish Last"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 99.5,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A",
+            "secondary": "11A"
+        },
+        "source": "Rhythm Game",
+        "title": "Peacemaker"
     }
 ]
