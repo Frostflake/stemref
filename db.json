@@ -6131,5 +6131,19 @@
         },
         "source": "Rhythm Game",
         "title": "My Poor Brain"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 138.86,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "New Way Home"
     }
 ]
