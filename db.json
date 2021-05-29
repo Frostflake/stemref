@@ -7683,5 +7683,19 @@
         },
         "source": "Rhythm Game",
         "title": "Wake Me Up When September Ends"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 121.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Warning"
     }
 ]
