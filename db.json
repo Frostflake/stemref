@@ -6089,5 +6089,19 @@
         },
         "source": "Rhythm Game",
         "title": "Learn to Fly"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 87.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12B"
+        },
+        "source": "Rhythm Game",
+        "title": "Monkey Wrench"
     }
 ]
