@@ -5579,5 +5579,18 @@
         },
         "source": "Remix Contest",
         "title": "Don't Let Me Go"
+    },
+    {
+        "artist": "ExoBassTix",
+        "bpm": 132.0,
+        "content": [
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Remix Contest",
+        "title": "Mental Reboot (Preview)"
     }
 ]
