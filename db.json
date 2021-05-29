@@ -7178,5 +7178,20 @@
         },
         "source": "Rhythm Game",
         "title": "Are We The Waiting; St. Jimmy"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 113.35,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "6B",
+            "secondary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "Basket Case"
     }
 ]
