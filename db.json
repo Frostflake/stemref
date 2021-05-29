@@ -6173,5 +6173,19 @@
         },
         "source": "Rhythm Game",
         "title": "Something From Nothing"
+    },
+    {
+        "artist": "Foo Fighters",
+        "bpm": 113.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "These Days"
     }
 ]
