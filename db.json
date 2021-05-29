@@ -6381,5 +6381,18 @@
         },
         "source": "Rhythm Game",
         "title": "Stacy's Mom"
+    },
+    {
+        "artist": "Fractal",
+        "bpm": 175.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Unknown",
+        "title": "Avare"
     }
 ]
