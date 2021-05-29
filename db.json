@@ -7389,5 +7389,19 @@
         },
         "source": "Rhythm Game",
         "title": "Having a Blast"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 81.88,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "Rhythm Game",
+        "title": "Hitchin' a Ride"
     }
 ]
