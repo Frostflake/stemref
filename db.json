@@ -8073,5 +8073,19 @@
         },
         "source": "Rhythm Game",
         "title": "Use Me"
+    },
+    {
+        "artist": "Hole",
+        "bpm": 135.13,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Rhythm Game",
+        "title": "Celebrity Skin"
     }
 ]
