@@ -5714,5 +5714,19 @@
         },
         "source": "Rhythm Game",
         "title": "Tutto \u00e8 Possibile"
+    },
+    {
+        "artist": "Fireman",
+        "bpm": 113.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "6B"
+        },
+        "source": "Unknown",
+        "title": "Dance 'Til We're High"
     }
 ]
