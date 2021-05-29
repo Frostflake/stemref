@@ -6629,5 +6629,18 @@
         },
         "source": "Download",
         "title": "Consumed (You're Doomed)"
+    },
+    {
+        "artist": "General Mumble feat. Tellab",
+        "bpm": 100.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "3A"
+        },
+        "source": "Download",
+        "title": "Devil in Me"
     }
 ]
