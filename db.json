@@ -7977,5 +7977,19 @@
         },
         "source": "Unknown",
         "title": "The Dark Knight Rises Trailer #3"
+    },
+    {
+        "artist": "Hard-Fi",
+        "bpm": 125.07,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Unknown",
+        "title": "Hard To Beat"
     }
 ]
