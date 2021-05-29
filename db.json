@@ -6751,5 +6751,18 @@
         },
         "source": "Direct From Artist",
         "title": "Awoken"
+    },
+    {
+        "artist": "Glaze",
+        "bpm": 131.0,
+        "content": [
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Direct From Artist",
+        "title": "Beyond Her Garden"
     }
 ]
