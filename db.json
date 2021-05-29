@@ -8087,5 +8087,19 @@
         },
         "source": "Rhythm Game",
         "title": "Celebrity Skin"
+    },
+    {
+        "artist": "Hollywood Undead",
+        "bpm": 134.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Young"
     }
 ]
