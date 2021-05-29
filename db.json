@@ -5304,5 +5304,19 @@
         },
         "source": "Rhythm Game",
         "title": "Blue da ba dee"
+    },
+    {
+        "artist": "Electric 6",
+        "bpm": 86.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Gay Bar"
     }
 ]
