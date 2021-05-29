@@ -5221,5 +5221,20 @@
         },
         "source": "Rhythm Game",
         "title": "Life In The Fast Lane"
+    },
+    {
+        "artist": "Eagles",
+        "bpm": 107.79,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A",
+            "secondary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "One Of These Nights"
     }
 ]
