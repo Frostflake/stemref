@@ -6832,5 +6832,19 @@
         },
         "source": "Direct From Artist",
         "title": "Nightmare Night"
+    },
+    {
+        "artist": "Glaze & Stormwolf",
+        "bpm": 140.0,
+        "content": [
+            "inst",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Direct From Artist",
+        "title": "Fruits Of Her Labour"
     }
 ]
