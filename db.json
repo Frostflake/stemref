@@ -7515,5 +7515,19 @@
         },
         "source": "Rhythm Game",
         "title": "Longview"
+    },
+    {
+        "artist": "Green Day",
+        "bpm": 138.0,
+        "content": [
+            "multi",
+            "vox"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8B"
+        },
+        "source": "Rhythm Game",
+        "title": "Minority"
     }
 ]
