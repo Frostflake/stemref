@@ -8450,5 +8450,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hallowed be thy Name (live)"
+    },
+    {
+        "artist": "Iron Maiden",
+        "bpm": 125.25,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Iron Maiden (live)"
     }
 ]
