@@ -8478,5 +8478,19 @@
         },
         "source": "Rhythm Game",
         "title": "Powerslave"
+    },
+    {
+        "artist": "Iron Maiden",
+        "bpm": 117.79,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9B"
+        },
+        "source": "Rhythm Game",
+        "title": "Run To The Hills (Original)"
     }
 ]
