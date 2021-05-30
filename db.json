@@ -8408,5 +8408,19 @@
         },
         "source": "Rhythm Game",
         "title": "Aces High (live)"
+    },
+    {
+        "artist": "Iron Maiden",
+        "bpm": 136.71,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Can I Play With Madness"
     }
 ]
