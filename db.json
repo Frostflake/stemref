@@ -8257,5 +8257,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Passenger"
+    },
+    {
+        "artist": "Iggy Pop and the Stooges",
+        "bpm": 156.36,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Rhythm Game",
+        "title": "Search and Destroy"
     }
 ]
