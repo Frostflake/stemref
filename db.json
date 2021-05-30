@@ -8436,5 +8436,19 @@
         },
         "source": "Rhythm Game",
         "title": "Fear of the Dark (live)"
+    },
+    {
+        "artist": "Iron Maiden",
+        "bpm": 132.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Hallowed be thy Name (live)"
     }
 ]
