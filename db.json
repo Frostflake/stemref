@@ -8201,5 +8201,19 @@
         },
         "source": "Rhythm Game",
         "title": "Filth Friends Unite"
+    },
+    {
+        "artist": "I See Stars feat. Danny Worsnop",
+        "bpm": 124.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Endless Sky"
     }
 ]
