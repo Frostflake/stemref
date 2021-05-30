@@ -8311,5 +8311,20 @@
         },
         "source": "Rhythm Game",
         "title": "Anna Molly"
+    },
+    {
+        "artist": "Incubus",
+        "bpm": 155.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12A",
+            "secondary": "1B"
+        },
+        "source": "Rhythm Game",
+        "title": "Dig"
     }
 ]
