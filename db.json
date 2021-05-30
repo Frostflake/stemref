@@ -8271,5 +8271,18 @@
         },
         "source": "Rhythm Game",
         "title": "Search and Destroy"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "bpm": 136.6,
+        "content": [
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Radioactive"
     }
 ]
