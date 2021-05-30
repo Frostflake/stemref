@@ -8534,5 +8534,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Trooper"
+    },
+    {
+        "artist": "Iron Maiden",
+        "bpm": 155.16,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "The Wicker Man"
     }
 ]
