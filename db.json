@@ -8243,5 +8243,19 @@
         },
         "source": "Rhythm Game",
         "title": "Oh My God"
+    },
+    {
+        "artist": "Iggy Pop",
+        "bpm": 134.83,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "The Passenger"
     }
 ]
