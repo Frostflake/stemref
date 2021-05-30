@@ -8492,5 +8492,19 @@
         },
         "source": "Rhythm Game",
         "title": "Run To The Hills (Original)"
+    },
+    {
+        "artist": "Iron Maiden",
+        "bpm": 133.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "The Clairvoyant"
     }
 ]
