@@ -8520,5 +8520,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Number of the Beast (Original)"
+    },
+    {
+        "artist": "Iron Maiden",
+        "bpm": 79.79,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "The Trooper"
     }
 ]
