@@ -8548,5 +8548,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Wicker Man"
+    },
+    {
+        "artist": "Iron Maiden",
+        "bpm": 145.61,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Wasted Years"
     }
 ]
