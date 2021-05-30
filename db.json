@@ -8380,5 +8380,19 @@
         },
         "source": "Rhythm Game",
         "title": "Slow Hands"
+    },
+    {
+        "artist": "Iron Maiden",
+        "bpm": 123.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "2 Minutes to Midnight"
     }
 ]
