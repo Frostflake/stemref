@@ -8326,5 +8326,18 @@
         },
         "source": "Rhythm Game",
         "title": "Dig"
+    },
+    {
+        "artist": "Incubus",
+        "bpm": 127.91,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Stellar"
     }
 ]
