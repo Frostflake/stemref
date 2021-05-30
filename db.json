@@ -8229,5 +8229,19 @@
         },
         "source": "Remix Contest",
         "title": "Worldless"
+    },
+    {
+        "artist": "Ida Maria",
+        "bpm": 85.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Oh My God"
     }
 ]
