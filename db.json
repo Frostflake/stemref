@@ -8339,5 +8339,19 @@
         },
         "source": "Rhythm Game",
         "title": "Stellar"
+    },
+    {
+        "artist": "Infek & Beatzsick",
+        "bpm": 150.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Unknown",
+        "title": "Scareclaw"
     }
 ]
