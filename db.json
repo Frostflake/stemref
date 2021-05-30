@@ -8175,20 +8175,6 @@
         "title": "New Drug"
     },
     {
-        "artist": "Hurtdeer",
-        "bpm": 105.0,
-        "content": [
-            "multi",
-            "vox"
-        ],
-        "energy": 7,
-        "key": {
-            "primary": "4A"
-        },
-        "source": "Rhythm Game",
-        "title": "Tumble"
-    },
-    {
         "artist": "Hypernova",
         "bpm": 149.0,
         "content": [
@@ -8201,5 +8187,19 @@
         },
         "source": "Rhythm Game",
         "title": "Viva La Resistance"
+    },
+    {
+        "artist": "I See Stars",
+        "bpm": 90.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Filth Friends Unite"
     }
 ]
