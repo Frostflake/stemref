@@ -8464,5 +8464,19 @@
         },
         "source": "Rhythm Game",
         "title": "Iron Maiden (live)"
+    },
+    {
+        "artist": "Iron Maiden",
+        "bpm": 135.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Powerslave"
     }
 ]
