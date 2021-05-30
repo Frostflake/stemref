@@ -8394,5 +8394,19 @@
         },
         "source": "Rhythm Game",
         "title": "2 Minutes to Midnight"
+    },
+    {
+        "artist": "Iron Maiden",
+        "bpm": 108.59,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Aces High (live)"
     }
 ]
