@@ -8284,5 +8284,19 @@
         },
         "source": "Rhythm Game",
         "title": "Radioactive"
+    },
+    {
+        "artist": "In This Moment",
+        "bpm": 91.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Rhythm Game",
+        "title": "Forever"
     }
 ]
