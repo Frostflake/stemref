@@ -8215,5 +8215,19 @@
         },
         "source": "Rhythm Game",
         "title": "Endless Sky"
+    },
+    {
+        "artist": "I Will Never Be The Same",
+        "bpm": 90.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Remix Contest",
+        "title": "Worldless"
     }
 ]
