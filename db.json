@@ -8422,5 +8422,19 @@
         },
         "source": "Rhythm Game",
         "title": "Can I Play With Madness"
+    },
+    {
+        "artist": "Iron Maiden",
+        "bpm": 124.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Fear of the Dark (live)"
     }
 ]
