@@ -8604,5 +8604,18 @@
         },
         "source": "Rhythm Game",
         "title": "Get Up (I Feel Like Being A) Sex Machine"
+    },
+    {
+        "artist": "James Gang",
+        "bpm": 119.76,
+        "content": [
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Funk 49"
     }
 ]
