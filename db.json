@@ -9020,5 +9020,19 @@
         },
         "source": "Rhythm Game",
         "title": "Fire (live)"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 96.56,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Rhythm Game",
+        "title": "Foxey Lady"
     }
 ]
