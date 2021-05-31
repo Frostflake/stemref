@@ -9076,5 +9076,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hey Joe"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 108.65,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Rhythm Game",
+        "title": "Hey Joe (live)"
     }
 ]
