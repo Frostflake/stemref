@@ -8935,5 +8935,20 @@
         },
         "source": "Rhythm Game",
         "title": "Are You Experienced"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 139.2,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "4B",
+            "secondary": "4A"
+        },
+        "source": "Rhythm Game",
+        "title": "Bold as Love"
     }
 ]
