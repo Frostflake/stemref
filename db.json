@@ -9048,5 +9048,19 @@
         },
         "source": "Rhythm Game",
         "title": "Foxey Lady (Live at Woodstock)"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 110.4,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Freedom"
     }
 ]
