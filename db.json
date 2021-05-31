@@ -9146,5 +9146,19 @@
         },
         "source": "Rhythm Game",
         "title": "Little Wing"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 107.75,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Rhythm Game",
+        "title": "Love or Confusion"
     }
 ]
