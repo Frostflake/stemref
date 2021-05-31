@@ -9314,5 +9314,19 @@
         },
         "source": "Rhythm Game",
         "title": "Up From The Skies"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 143.58,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Voodoo Child (Slight Return) (live)"
     }
 ]
