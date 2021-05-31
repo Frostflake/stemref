@@ -9202,5 +9202,19 @@
         },
         "source": "Rhythm Game",
         "title": "One Rainy Wish"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 106.77,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Purple Haze"
     }
 ]
