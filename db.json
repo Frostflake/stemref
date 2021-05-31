@@ -8879,5 +8879,19 @@
         },
         "source": "CD",
         "title": "Collective Consciousness (Maniac Agenda Mix)"
+    },
+    {
+        "artist": "Jimmy Gnecco",
+        "bpm": 102.5,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A",
+            "secondary": "10A"
+        },
+        "source": "CD",
+        "title": "It Has To Be This Way (Platinum Mix)"
     }
 ]
