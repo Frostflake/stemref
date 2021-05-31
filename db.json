@@ -8907,5 +8907,19 @@
         },
         "source": "Rhythm Game",
         "title": "Ain't No Tellin'"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 133.58,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Rhythm Game",
+        "title": "Angel"
     }
 ]
