@@ -9272,5 +9272,19 @@
         },
         "source": "Rhythm Game",
         "title": "Stone Free"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 128.84,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "7B"
+        },
+        "source": "Rhythm Game",
+        "title": "The Wind Cries Mary"
     }
 ]
