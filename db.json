@@ -9006,5 +9006,19 @@
         },
         "source": "Rhythm Game",
         "title": "Fire"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 116.24,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Fire (live)"
     }
 ]
