@@ -8700,5 +8700,18 @@
         },
         "source": "CD",
         "title": "Red Sun (Maniac Agenda Mix)"
+    },
+    {
+        "artist": "Jason Miller",
+        "bpm": 130.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "CD",
+        "title": "Rules of Nature (Platinum Mix)"
     }
 ]
