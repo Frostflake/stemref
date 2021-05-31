@@ -8992,5 +8992,19 @@
         },
         "source": "Rhythm Game",
         "title": "Dolly Dagger"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 152.87,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Fire"
     }
 ]
