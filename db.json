@@ -9132,5 +9132,19 @@
         },
         "source": "Rhythm Game",
         "title": "Little Miss Lover"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 133.34,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "2B"
+        },
+        "source": "Rhythm Game",
+        "title": "Little Wing"
     }
 ]
