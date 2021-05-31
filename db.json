@@ -8824,5 +8824,19 @@
         },
         "source": "Rhythm Game",
         "title": "Cheeseburger In Paradise"
+    },
+    {
+        "artist": "Jimmy Buffett",
+        "bpm": 125.68,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "Margaritaville"
     }
 ]
