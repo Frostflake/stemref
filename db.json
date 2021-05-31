@@ -8673,5 +8673,19 @@
         },
         "source": "Rhythm Game",
         "title": "Move Over"
+    },
+    {
+        "artist": "Janis Joplin & the Full Tilt Boogie Band",
+        "bpm": 121.84,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Me and Bobby McGee"
     }
 ]
