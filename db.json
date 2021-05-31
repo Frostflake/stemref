@@ -8726,5 +8726,19 @@
         },
         "source": "Direct From Artist",
         "title": "Rain (Original Mix)"
+    },
+    {
+        "artist": "Jefferson Airplane",
+        "bpm": 132.95,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "11A"
+        },
+        "source": "Rhythm Game",
+        "title": "Somebody To Love"
     }
 ]
