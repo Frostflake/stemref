@@ -8893,5 +8893,19 @@
         },
         "source": "CD",
         "title": "It Has To Be This Way (Platinum Mix)"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 150.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Ain't No Tellin'"
     }
 ]
