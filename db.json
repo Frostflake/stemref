@@ -9062,5 +9062,19 @@
         },
         "source": "Rhythm Game",
         "title": "Freedom"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 108.84,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Rhythm Game",
+        "title": "Hey Joe"
     }
 ]
