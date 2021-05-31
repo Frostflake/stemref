@@ -8740,5 +8740,19 @@
         },
         "source": "Rhythm Game",
         "title": "Somebody To Love"
+    },
+    {
+        "artist": "Jefferson Airplane",
+        "bpm": 105.29,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "White Rabbit"
     }
 ]
