@@ -8754,5 +8754,19 @@
         },
         "source": "Rhythm Game",
         "title": "White Rabbit"
+    },
+    {
+        "artist": "Jeffthestrider",
+        "bpm": 148.0,
+        "content": [
+            "multi",
+            "inst"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Direct From Artist",
+        "title": "Want It Need It"
     }
 ]
