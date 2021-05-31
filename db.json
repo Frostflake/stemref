@@ -8838,5 +8838,19 @@
         },
         "source": "Rhythm Game",
         "title": "Margaritaville"
+    },
+    {
+        "artist": "Jimmy Buffett",
+        "bpm": 89.24,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "7B"
+        },
+        "source": "Rhythm Game",
+        "title": "Volcano"
     }
 ]
