@@ -9216,5 +9216,19 @@
         },
         "source": "Rhythm Game",
         "title": "Purple Haze"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 118.29,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Rhythm Game",
+        "title": "Purple Haze (live)"
     }
 ]
