@@ -8617,5 +8617,19 @@
         },
         "source": "Rhythm Game",
         "title": "Funk 49"
+    },
+    {
+        "artist": "James Gang",
+        "bpm": 103.36,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "11B"
+        },
+        "source": "Rhythm Game",
+        "title": "Walk Away"
     }
 ]
