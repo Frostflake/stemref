@@ -9342,5 +9342,19 @@
         },
         "source": "Rhythm Game",
         "title": "Wait Until Tomorrow"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 127.54,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Rhythm Game",
+        "title": "You Got Me Floatin'"
     }
 ]
