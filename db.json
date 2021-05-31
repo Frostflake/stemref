@@ -9090,5 +9090,19 @@
         },
         "source": "Rhythm Game",
         "title": "Hey Joe (live)"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 137.36,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Rhythm Game",
+        "title": "Highway Chile"
     }
 ]
