@@ -8687,5 +8687,18 @@
         },
         "source": "Rhythm Game",
         "title": "Me and Bobby McGee"
+    },
+    {
+        "artist": "Jason Miller",
+        "bpm": 150.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "10A"
+        },
+        "source": "CD",
+        "title": "Red Sun (Maniac Agenda Mix)"
     }
 ]
