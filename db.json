@@ -8866,5 +8866,18 @@
         },
         "source": "Rhythm Game",
         "title": "The Middle"
+    },
+    {
+        "artist": "Jimmy Gnecco",
+        "bpm": 80.0,
+        "content": [
+            "inst"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "CD",
+        "title": "Collective Consciousness (Maniac Agenda Mix)"
     }
 ]
