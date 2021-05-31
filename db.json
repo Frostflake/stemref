@@ -9188,5 +9188,19 @@
         },
         "source": "Rhythm Game",
         "title": "May This Be Love"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 151.75,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "One Rainy Wish"
     }
 ]
