@@ -8631,5 +8631,19 @@
         },
         "source": "Rhythm Game",
         "title": "Walk Away"
+    },
+    {
+        "artist": "Jane's Addiction",
+        "bpm": 103.69,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "6A"
+        },
+        "source": "Rhythm Game",
+        "title": "Been Caught Stealing"
     }
 ]
