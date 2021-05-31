@@ -9174,5 +9174,19 @@
         },
         "source": "Rhythm Game",
         "title": "Manic Depression"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 126.83,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "5B"
+        },
+        "source": "Rhythm Game",
+        "title": "May This Be Love"
     }
 ]
