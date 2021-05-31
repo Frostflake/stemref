@@ -9300,5 +9300,19 @@
         },
         "source": "Rhythm Game",
         "title": "Third Stone From The Sun"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 143.22,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "6B"
+        },
+        "source": "Rhythm Game",
+        "title": "Up From The Skies"
     }
 ]
