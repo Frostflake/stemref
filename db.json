@@ -8590,5 +8590,19 @@
         },
         "source": "Unknown",
         "title": "Shake Your Body"
+    },
+    {
+        "artist": "James Brown",
+        "bpm": 108.49,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Get Up (I Feel Like Being A) Sex Machine"
     }
 ]
