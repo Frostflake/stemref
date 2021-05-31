@@ -9328,5 +9328,19 @@
         },
         "source": "Rhythm Game",
         "title": "Voodoo Child (Slight Return) (live)"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 117.2,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "2A"
+        },
+        "source": "Rhythm Game",
+        "title": "Wait Until Tomorrow"
     }
 ]
