@@ -8950,5 +8950,19 @@
         },
         "source": "Rhythm Game",
         "title": "Bold as Love"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 123.21,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Castles Made of Sand"
     }
 ]
