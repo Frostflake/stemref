@@ -8852,5 +8852,19 @@
         },
         "source": "Rhythm Game",
         "title": "Volcano"
+    },
+    {
+        "artist": "Jimmy Eat World",
+        "bpm": 81.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "10B"
+        },
+        "source": "Rhythm Game",
+        "title": "The Middle"
     }
 ]
