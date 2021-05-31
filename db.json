@@ -9118,5 +9118,19 @@
         },
         "source": "Rhythm Game",
         "title": "If 6 Was 9"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 96.5,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "4A"
+        },
+        "source": "Rhythm Game",
+        "title": "Little Miss Lover"
     }
 ]
