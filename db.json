@@ -9244,5 +9244,19 @@
         },
         "source": "Rhythm Game",
         "title": "She's So Fine"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 96.64,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Spanish Castle Magic"
     }
 ]
