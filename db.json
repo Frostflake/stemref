@@ -8964,5 +8964,19 @@
         },
         "source": "Rhythm Game",
         "title": "Castles Made of Sand"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 114.69,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "5A"
+        },
+        "source": "Rhythm Game",
+        "title": "Crosstown Traffic"
     }
 ]
