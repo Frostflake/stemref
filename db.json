@@ -8978,5 +8978,19 @@
         },
         "source": "Rhythm Game",
         "title": "Crosstown Traffic"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 119.88,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "3A"
+        },
+        "source": "Rhythm Game",
+        "title": "Dolly Dagger"
     }
 ]
