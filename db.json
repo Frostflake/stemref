@@ -8782,5 +8782,19 @@
         },
         "source": "Download",
         "title": "Stronger (Extended)"
+    },
+    {
+        "artist": "Jet",
+        "bpm": 105.0,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 7,
+        "key": {
+            "primary": "8A"
+        },
+        "source": "Rhythm Game",
+        "title": "Are You Gonna Be My Girl"
     }
 ]
