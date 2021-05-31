@@ -8768,5 +8768,19 @@
         },
         "source": "Direct From Artist",
         "title": "Want It Need It"
+    },
+    {
+        "artist": "Jessa",
+        "bpm": 79.5,
+        "content": [
+            "inst",
+            "vox"
+        ],
+        "energy": 6,
+        "key": {
+            "primary": "3B"
+        },
+        "source": "Download",
+        "title": "Stronger (Extended)"
     }
 ]
