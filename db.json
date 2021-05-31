@@ -8796,5 +8796,19 @@
         },
         "source": "Rhythm Game",
         "title": "Are You Gonna Be My Girl"
+    },
+    {
+        "artist": "Jethro Tull",
+        "bpm": 125.57,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "7B"
+        },
+        "source": "Rhythm Game",
+        "title": "Aqualung"
     }
 ]
