@@ -9160,5 +9160,19 @@
         },
         "source": "Rhythm Game",
         "title": "Love or Confusion"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 149.56,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "4B"
+        },
+        "source": "Rhythm Game",
+        "title": "Manic Depression"
     }
 ]
