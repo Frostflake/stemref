@@ -9286,5 +9286,19 @@
         },
         "source": "Rhythm Game",
         "title": "The Wind Cries Mary"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 135.1,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "9A"
+        },
+        "source": "Rhythm Game",
+        "title": "Third Stone From The Sun"
     }
 ]
