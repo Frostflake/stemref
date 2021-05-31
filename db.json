@@ -9258,5 +9258,19 @@
         },
         "source": "Rhythm Game",
         "title": "Spanish Castle Magic"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 150.75,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 5,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Rhythm Game",
+        "title": "Stone Free"
     }
 ]
