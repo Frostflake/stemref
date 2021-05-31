@@ -8713,5 +8713,18 @@
         },
         "source": "CD",
         "title": "Rules of Nature (Platinum Mix)"
+    },
+    {
+        "artist": "JayB & Giggly Maria",
+        "bpm": 130.0,
+        "content": [
+            "stems"
+        ],
+        "energy": 8,
+        "key": {
+            "primary": "12A"
+        },
+        "source": "Direct From Artist",
+        "title": "Rain (Original Mix)"
     }
 ]
