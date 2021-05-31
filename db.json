@@ -9104,5 +9104,19 @@
         },
         "source": "Rhythm Game",
         "title": "Highway Chile"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 139.23,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "6B"
+        },
+        "source": "Rhythm Game",
+        "title": "If 6 Was 9"
     }
 ]
