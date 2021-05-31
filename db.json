@@ -8921,5 +8921,19 @@
         },
         "source": "Rhythm Game",
         "title": "Angel"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "bpm": 109.19,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "1A"
+        },
+        "source": "Rhythm Game",
+        "title": "Are You Experienced"
     }
 ]
