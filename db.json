@@ -8659,5 +8659,19 @@
         },
         "source": "Rhythm Game",
         "title": "Mountain Song"
+    },
+    {
+        "artist": "Janis Joplin",
+        "bpm": 122.48,
+        "content": [
+            "vox",
+            "multi"
+        ],
+        "energy": 4,
+        "key": {
+            "primary": "7A"
+        },
+        "source": "Rhythm Game",
+        "title": "Move Over"
     }
 ]
